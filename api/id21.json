@@ -1,0 +1,78 @@
+{
+    "id": "21",
+    "nome": "TÊNIS CALI DREAM TECH FEMININO",
+    "desc": "Representando o autêntico estilo californiano atrelado aos símbolos de inovação da alta tecnologia, o tênis Cali Dream Tech traz cabedal em material sintético com sobreposições em couro, entressola e sola de borracha, chamada Sports Style na lateral, e fechamento de cadarço para o encaixe ideal.",
+    "img": {
+        "imgPoster": "https://tenis-api.herokuapp.com/img/puma/femenino/casual/coli/img-1.webp",
+        "img2": "https://tenis-api.herokuapp.com/img/puma/femenino/casual/coli/img-2.webp",
+        "img3": "https://tenis-api.herokuapp.com/img/puma/femenino/casual/coli/img-3.webp",
+        "img4": "https://tenis-api.herokuapp.com/img/puma/femenino/casual/coli/img-4.webp"
+    },
+    "video": {
+        "status": "false",
+        "videoLink": ""
+    },
+    "preco": {
+        "moeda": "BRL",
+        "precoBase": "499,90",
+        "precoPromo": "499,90"
+       
+    },
+    "cor":"branco",
+      
+            "size":{
+     
+                "t34": {
+                    "quantidade": ""
+                },
+                "t35":{
+                    "quantidade":"8"
+                },
+                "t36": {
+                    "quantidade": "2"
+                },
+                "t37": {
+                    "quantidade": "2"
+                },
+                "t38":{
+                    "quantidade":"1"
+                },
+                "t39": {
+                    "quantidade": "5"
+                },
+                "t40": {
+                    "quantidade": "3"
+                },
+                "t41":{
+                    "quantidade":""
+                },
+                "t42": {
+                    "quantidade": ""
+                },
+                "t43": {
+                    "quantidade": ""
+                },
+                "t44": {
+                    "quantidade": ""
+                },
+                "t45": {
+                    "quantidade": ""
+                }
+            },
+        
+   
+    "nota": "3.0",
+       
+        "comment": [
+            {
+                "id": "1",
+                "title": "Excelente tênis",
+                "nome": "Impulsiva por tênis",
+                "local": "RS",
+                "msg": "Macio e confortável, pois tenho o pé largo. Recomendo.",
+                "img": "",
+                "data": "10/04/2022"
+            }
+        ]
+    
+}

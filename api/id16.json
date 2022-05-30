@@ -1,0 +1,96 @@
+{
+    "id": "16",
+    "nome": "PUMA X BLACK FIVES TÊNIS SUEDE TRIPLEX MASCULINO",
+    "desc": "Tendências vêm e vão, mas alguns looks nunca saem de moda. Com uma biografia que começa nos anos 60, o Suede resistiu à prova do tempo. Do protesto de Tommie Smith em 1968 aos b-boys de Nova York que adotaram o estilo em 1980, o Suede é mais do que um tênis – é um ícone. Criada em colaboração com a instituição The Black Fives – cujo trabalho serve para promover o avanço educacional, estimular o interesse pela história, e ensinar pilares de liderança e desenvolvimento de caráter – essa edição traz cabedal em suede e faixa PUMA Formstrip em três camada para celebrar a herança da cultura afro-americana.",
+    "img": {
+        "imgPoster": "https://tenis-api.herokuapp.com/img/puma/masculino/casual/suede-triplex/img-1.webp",
+        "img2": "https://tenis-api.herokuapp.com/img/puma/masculino/casual/suede-triplex/img-2.webp",
+        "img3": "https://tenis-api.herokuapp.com/img/puma/masculino/casual/suede-triplex/img-3.webp",
+        "img4": "https://tenis-api.herokuapp.com/img/puma/masculino/casual/suede-triplex/img-4.webp"
+    },
+    "video": {
+        "status": "false",
+        "videoLink": ""
+    },
+    "preco": {
+        "moeda": "BRL",
+        "precoBase": "499,90",
+        "precoPromo": "499,90"
+
+    },
+    "cor": "preto",
+      
+            "size":{
+     
+                "t34": {
+                    "quantidade": ""
+                },
+                "t35":{
+                    "quantidade":""
+                },
+                "t36": {
+                    "quantidade": "23"
+                },
+                "t37": {
+                    "quantidade": ""
+                },
+                "t38":{
+                    "quantidade":"3"
+                },
+                "t39": {
+                    "quantidade": ""
+                },
+                "t40": {
+                    "quantidade": "13"
+                },
+                "t41":{
+                    "quantidade":""
+                },
+                "t42": {
+                    "quantidade": ""
+                },
+                "t43": {
+                    "quantidade": "2"
+                },
+                "t44": {
+                    "quantidade": ""
+                },
+                "t45": {
+                    "quantidade": ""
+                }
+            },
+        
+    
+    "nota":"4",
+       
+        "comment": [
+            {
+                "id": "1",
+                "title": "Lindo demais! puma é puma né Pai... haha",
+                "nome": "julio",
+                "local": "Franca SP",
+                "msg": "Brabo demais!",
+                "img": "",
+                "data": "09/04/2022"
+            },
+            {
+                "id": "2",
+                "title": "Air force melhor linha da puma",
+                "nome": "pati",
+                "local": "Paraná",
+                "msg": "Confortável e de excelente qualidade",
+                "img": "",
+                "data": "10/04/2022"
+            },
+            {
+                "id": "3",
+                "title": "Super confortável (mais que o tradicional), e lindo!!!",
+                "nome": "nelson",
+                "local": "São josé do rio preto",
+                "msg": "Recomendo",
+                "img": "",
+                "data": "28/04/2022"
+            }
+        ]
+    
+    }

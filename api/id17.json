@@ -1,0 +1,96 @@
+{
+    "id": "17",
+    "nome": "TÊNIS FUTURE RIDER DISPLACED",
+    "desc": "Direto dos arquivos PUMA, o tênis Future Rider Displaced – inspirado no icônico Fast Rider lançado nos anos 80 – traz cabedal em nylon com sobreposições em suede, nubuck e material sintético, detalhes em suede, entressola com tecnologia IMEVA para maior conforto, e fechamento de cadarço para o encaixe ideal.",
+    "img": {
+        "imgPoster": "https://tenis-api.herokuapp.com/img/puma/masculino/casual/future/img-1.webp",
+        "img2": "https://tenis-api.herokuapp.com/img/puma/masculino/casual/future/img-2.webp",
+        "img3": "https://tenis-api.herokuapp.com/img/puma/masculino/casual/future/img-3.webp",
+        "img4": "https://tenis-api.herokuapp.com/img/puma/masculino/casual/future/img-4.webp"
+    },
+    "video": {
+        "status": "false",
+        "videoLink": ""
+    },
+    "preco": {
+        "moeda": "BRL",
+        "precoBase": "499,90",
+        "precoPromo": "499,90"
+
+    },
+    "cor": "Puma Branco Vela Azul",
+      
+            "size":{
+     
+                "t34": {
+                    "quantidade": ""
+                },
+                "t35":{
+                    "quantidade":"1"
+                },
+                "t36": {
+                    "quantidade": "2"
+                },
+                "t37": {
+                    "quantidade": "3"
+                },
+                "t38":{
+                    "quantidade":"3"
+                },
+                "t39": {
+                    "quantidade": "6"
+                },
+                "t40": {
+                    "quantidade": "13"
+                },
+                "t41":{
+                    "quantidade":"2"
+                },
+                "t42": {
+                    "quantidade": "5"
+                },
+                "t43": {
+                    "quantidade": "2"
+                },
+                "t44": {
+                    "quantidade": ""
+                },
+                "t45": {
+                    "quantidade": ""
+                }
+            },
+        
+    
+    "nota":"4.5",
+       
+        "comment": [
+            {
+                "id": "1",
+                "title": "Lindo demais! puma é puma né Pai... haha",
+                "nome": "julio",
+                "local": "Franca SP",
+                "msg": "Brabo demais!",
+                "img": "",
+                "data": "09/04/2022"
+            },
+            {
+                "id": "2",
+                "title": "Air force melhor linha da puma",
+                "nome": "pati",
+                "local": "Paraná",
+                "msg": "Confortável e de excelente qualidade",
+                "img": "",
+                "data": "10/04/2022"
+            },
+            {
+                "id": "3",
+                "title": "Super confortável (mais que o tradicional), e lindo!!!",
+                "nome": "pivane",
+                "local": "São josé do rio preto",
+                "msg": "Recomendo",
+                "img": "",
+                "data": "28/04/2022"
+            }
+        ]
+    
+    }

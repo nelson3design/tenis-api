@@ -1,0 +1,98 @@
+{
+    "id": "6",
+    "nome": "Tênis Nike Air Zoom Tempo NEXT% Feminino",
+    "desc": "O Nike Air Zoom Tempo NEXT% combina durabilidade com um design que ajuda a impulsionar o seu melhor. O resultado é um tênis construído como um modelo de corrida, mas feito para a sua rotina de treino diária.",
+    
+
+   
+            "cor": "amarelo",
+            "video": {
+                "status": "false",
+                "videoLink": ""
+            },
+            "preco": {
+                "moeda": "BRL",
+                "precoBase": "1.199,99",
+                "precoPromo": "839,99",
+                "procoDesconto": "839,99"
+            },
+            "img": {
+                "imgPoster": "https://tenis-api.herokuapp.com/img/nike/femenino/corrida/2-cores/air-zoom-yellow/tenis-w-nike-air-1-1.webp",
+                "img2": "https://tenis-api.herokuapp.com/img/nike/femenino/corrida/2-cores/air-zoom-yellow/tenis-w-nike-air-zoom-2-2.webp",
+                "img3": "https://tenis-api.herokuapp.com/img/nike/femenino/corrida/2-cores/air-zoom-yellow/tenis-w-nike-air-zoom-3-3.webp",
+                "img4": "https://tenis-api.herokuapp.com/img/nike/femenino/corrida/2-cores/air-zoom-yellow/tenis-w-nike-air-zoom-turbo-4-4.webp"
+            },
+            "size":{
+     
+                "t34": {
+                    "quantidade": ""
+                },
+                "t35":{
+                    "quantidade":""
+                },
+                "t36": {
+                    "quantidade": ""
+                },
+                "t37": {
+                    "quantidade": ""
+                },
+                "t38":{
+                    "quantidade":"10"
+                },
+                "t39": {
+                    "quantidade": "15"
+                },
+                "t40": {
+                    "quantidade": "13"
+                },
+                "t41":{
+                    "quantidade":""
+                },
+                "t42": {
+                    "quantidade": ""
+                },
+                "t43": {
+                    "quantidade": ""
+                },
+                "t44": {
+                    "quantidade": ""
+                },
+                "t45": {
+                    "quantidade": ""
+                }
+            }
+     
+   ,
+    "nota":"4.2",
+        
+        "comment": [
+            {
+                "id": "1",
+                "title": "MARAVILHOSO",
+                "nome": "Jamylle",
+                "local": "Uberlândia-MG",
+                "msg": "Os defeitos do tênis são: Ele é difícil de calçar, ele fica marcando com linhas a parte branca do calcanhar e não ficou muito bonito no designer na cor preta, ficou muito simples.",
+                "img": "",
+                "data": "10/04/2022"
+            },
+            {
+                "id": "2",
+                "title": "Excelente tênis para corrida.",
+                "nome": "R. Cesar",
+                "local": "Curitiba",
+                "msg": "Excelente tênis, nós primeiros uso vai incomodar por ser bem justo, mas logo se adapta aos pés. Mas recomendo esse modelo. Vi muitos dizendo que é necessário um número maior, na primeira vez de uso achei também, mas no início incomoda, depois de um tempo de uso ele se molda aos pés e o incômodo passa.",
+                "img": "",
+                "data": "01/03/2022"
+            },
+            {
+                "id": "3",
+                "title": "Maravilhoso",
+                "nome": "Eline",
+                "local": "rio",
+                "msg": "Vala a pena",
+                "img": "",
+                "data": "01/01/2022"
+            }
+        ]
+    
+}

@@ -1,0 +1,93 @@
+{
+    "id": "12",
+    "nome": "Tênis Nike Air Zoom G.T. Run Unissex",
+    "desc": "Sinta o frescor. Dispute com força. O Nike Air Zoom G.T. Run foi projetado para jogadores que fazem de tudo em quadra e precisam que seus tênis acompanhem seu ritmo. Seu sistema de amortecimento é empilhado com duas unidades Zoom Air e duas camadas da espuma Nike React. Ultraleve e com sustentação extra nas principais áreas, ele proporciona um caimento confortável e consistente e uma sensação ágil para ajudar você a tirar o máximo da sua energia e superar seus adversários.",
+    "img": {
+        "imgPoster": "https://tenis-api.herokuapp.com/img/nike/masculino/basquete/zoom/tenis-nike-zoom-1.webp",
+        "img2": "https://tenis-api.herokuapp.com/img/nike/masculino/basquete/zoom/tenis-nike-zoom-3.webp",
+        "img3": "https://tenis-api.herokuapp.com/img/nike/masculino/basquete/zoom/tenis-nike-zoom-freak-2.webp",
+        "img4": "https://tenis-api.herokuapp.com/img/nike/masculino/basquete/zoom/tenis-nike-zoom-freak-4.webp"
+    },
+    "video": {
+        "status": "false",
+        "videoLink": ""
+    },
+    "preco": {
+        "moeda": "BRL",
+        "precoBase": "1.299,99",
+        "precoPromo": "1.079,99 ",
+        "procoDesconto": "1.079,99 "
+    },
+    "cor": "branco",
+    "size":{
+     
+        "t34": {
+            "quantidade": ""
+        },
+        "t35":{
+            "quantidade":""
+        },
+        "t36": {
+            "quantidade": ""
+        },
+        "t37": {
+            "quantidade": ""
+        },
+        "t38":{
+            "quantidade":"10"
+        },
+        "t39": {
+            "quantidade": "15"
+        },
+        "t40": {
+            "quantidade": "13"
+        },
+        "t41":{
+            "quantidade":""
+        },
+        "t42": {
+            "quantidade": ""
+        },
+        "t43": {
+            "quantidade": ""
+        },
+        "t44": {
+            "quantidade": ""
+        },
+        "t45": {
+            "quantidade": ""
+        }
+    },
+    "nota": "5.0",
+      
+        "comment": [
+            {
+                "id": "1",
+                "title": "Excelente",
+                "nome": "Felipe",
+                "local": "Paraná",
+                "msg": "Tênis incrível, único porém é a palmilha de borracha, que causa estranheza até acostumar com o uso",
+                "img": "",
+                "data": "03/02/2022"
+            },
+            {
+                "id": "2",
+                "title": "Ajuda na troca",
+                "nome": "Nair",
+                "local": "São Paulo",
+                "msg": "Enviei o produto de volta e ainda não recebo o cupom para troca de um número menor, podem me ajudar, obrigado.",
+                "img": "",
+                "data": "10/04/2022"
+            },
+            {
+                "id": "3",
+                "title": "Lindo, leve e super confortável!",
+                "nome": "Pretty Boy",
+                "local": "Florianópolis",
+                "msg": "Os tênis de corrida da Nike ficam muito bom no meu pé no tamanho 41. Esse tenis Air Zoom GT ficou um pouco sobrando... Grande. Mas eu provei o tênis e é muito Top! Uma pena não ter servido!",
+                "img": "",
+                "data": "20/03/2022"
+            }
+        ]
+    
+}

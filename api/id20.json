@@ -1,0 +1,78 @@
+{
+    "id": "20",
+    "nome": "TÊNIS TRIPLE DUNKIN' BASKETBALL",
+    "desc": "Prepare-se para mergulhar na competição com o Tênis Triple DUNKIN' Basketball, com tecnologia atlética projetada para o entusiasta dos esportes modernos. Essecalçado de basquete apresentaelementos de design que demonstram a força e a resistência de jogadores de elite e um ajuste confortável que você vai adorar.",
+    "img": {
+        "imgPoster": "https://tenis-api.herokuapp.com/img/puma/masculino/basquete/triple/img-1.webp",
+        "img2": "https://tenis-api.herokuapp.com/img/puma/masculino/basquete/triple/img-2.webp",
+        "img3": "https://tenis-api.herokuapp.com/img/puma/masculino/basquete/triple/img-3.webp",
+        "img4": "https://tenis-api.herokuapp.com/img/puma/masculino/basquete/triple/img-4.webp"
+    },
+    "video": {
+        "status": "false",
+        "videoLink": ""
+    },
+    "preco": {
+        "moeda": "BRL",
+        "precoBase": "599,90",
+        "precoPromo": "599,90"
+
+    },
+    "cor":"preto",
+      
+            "size":{
+     
+                "t34": {
+                    "quantidade": "1"
+                },
+                "t35":{
+                    "quantidade":""
+                },
+                "t36": {
+                    "quantidade": "33"
+                },
+                "t37": {
+                    "quantidade": ""
+                },
+                "t38":{
+                    "quantidade":"10"
+                },
+                "t39": {
+                    "quantidade": "15"
+                },
+                "t40": {
+                    "quantidade": "13"
+                },
+                "t41":{
+                    "quantidade":"2"
+                },
+                "t42": {
+                    "quantidade": ""
+                },
+                "t43": {
+                    "quantidade": "2"
+                },
+                "t44": {
+                    "quantidade": ""
+                },
+                "t45": {
+                    "quantidade": ""
+                }
+            },
+        
+   
+    "nota": "4.0",
+       
+        "comment": [
+            {
+                "id": "1",
+                "title": "Excelente",
+                "nome": "lorna",
+                "local": "Curitiba /Pr",
+                "msg": "pode comprar",
+               
+                "data": "09/02/2022"
+            }
+        ]
+    
+}

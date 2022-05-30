@@ -1,0 +1,87 @@
+{
+    "id": "24",
+    "nome": "TÊNIS FLYER RUNNER FEMININO",
+    "desc": "Feito para usar das ruas aos treinos, o Flyer Runner foi feito para encarar qualquer desafio. O modelo traz cabedal em mesh, entressola EVA para amortecimento superior, revestimento de borracha e palmilha SoftFoam+ para garantir o seu conforto. Já a icônica faixa PUMA Formstrip na lateral complementa o visual.",
+    "img": {
+        "imgPoster": "https://tenis-api.herokuapp.com/img/puma/femenino/corrida/flyer/img-1.webp",
+        "img2": "https://tenis-api.herokuapp.com/img/puma/femenino/corrida/flyer/img-2.webp",
+        "img3": "https://tenis-api.herokuapp.com/img/puma/femenino/corrida/flyer/img-3.webp",
+        "img4": "https://tenis-api.herokuapp.com/img/puma/femenino/corrida/flyer/img-4.webp"
+    },
+    "video": {
+        "status": "false",
+        "videoLink": ""
+    },
+    "preco": {
+        "moeda": "BRL",
+        "precoBase": "299,90",
+        "precoPromo": "299,90"
+       
+    },
+    "cor":"Preto Rosa",
+      
+            "size":{
+     
+                "t34": {
+                    "quantidade": "1"
+                },
+                "t35":{
+                    "quantidade":"3"
+                },
+                "t36": {
+                    "quantidade": "2"
+                },
+                "t37": {
+                    "quantidade": "20"
+                },
+                "t38":{
+                    "quantidade":"1"
+                },
+                "t39": {
+                    "quantidade": "5"
+                },
+                "t40": {
+                    "quantidade": "3"
+                },
+                "t41":{
+                    "quantidade":""
+                },
+                "t42": {
+                    "quantidade": ""
+                },
+                "t43": {
+                    "quantidade": ""
+                },
+                "t44": {
+                    "quantidade": ""
+                },
+                "t45": {
+                    "quantidade": ""
+                }
+            },
+        
+   
+    "nota": "4.4",
+       
+        "comment": [
+            {
+                "id": "1",
+                "title": "Bom produto",
+                "nome": "Camila",
+                "local": "Aracaju , Sergipe",
+                "msg": "Sim, eu recomendaria a uma amiga",
+                "img": "",
+                "data": "20/01/2022"
+            },
+            {
+                "id": "1",
+                "title": "muito bom",
+                "nome": "Cassio",
+                "local": "Rio de Janeiro",
+                "msg": "Comprei na numeração que uso. Tenho usado nos treinos de ritmo, Tênis muito bom, super leve e macio.",
+                "img": "",
+                "data": "19/03/2022"
+            }
+        ]
+    
+}

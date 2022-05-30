@@ -1,0 +1,93 @@
+{
+    "id": "13",
+    "nome": "Tênis Nike Metcon 7 Amp Unissex",
+    "desc": "O Nike Metcon 7 AMP é o padrão ouro para o treino de peso - ainda mais resistente e estável do que as versões anteriores. Também adicionamos a espuma React que aumenta o conforto para mantê-la pronta para exercícios aeróbicos de alta intensidade. Além disso, uma tira prende os cadarços para que eles não fiquem desamarrados quando você estiver tentando bater seu recorde pessoal.",
+    "img": {
+        "imgPoster": "https://tenis-api.herokuapp.com/img/nike/masculino/treino/metcom/tenis-nike-metcon-1.webp",
+        "img2": "https://tenis-api.herokuapp.com/img/nike/masculino/treino/metcom/tenis-nike-metcon-2.webp",
+        "img3": "https://tenis-api.herokuapp.com/img/nike/masculino/treino/metcom/tenis-nike-metcon-3.webp",
+        "img4": "https://tenis-api.herokuapp.com/img/nike/masculino/treino/metcom/tenis-nike-metcon-4.webp"
+    },
+    "video": {
+        "status": "false",
+        "videoLink": ""
+    },
+    "preco": {
+        "moeda": "BRL",
+        "precoBase": "999,99",
+        "precoPromo": "999,99",
+        "procoDesconto": "999,99"
+    },
+    "cor": "roxo",
+    "size":{
+     
+        "t34": {
+            "quantidade": ""
+        },
+        "t35":{
+            "quantidade":""
+        },
+        "t36": {
+            "quantidade": ""
+        },
+        "t37": {
+            "quantidade": ""
+        },
+        "t38":{
+            "quantidade":"10"
+        },
+        "t39": {
+            "quantidade": "15"
+        },
+        "t40": {
+            "quantidade": "13"
+        },
+        "t41":{
+            "quantidade":""
+        },
+        "t42": {
+            "quantidade": ""
+        },
+        "t43": {
+            "quantidade": ""
+        },
+        "t44": {
+            "quantidade": ""
+        },
+        "t45": {
+            "quantidade": ""
+        }
+    },
+    "nota": "5.0",
+       
+        "comment": [
+            {
+                "id": "1",
+                "title": "Sensacional",
+                "nome": "Joga",
+                "local": "Marilia, sp",
+                "msg": "Crossfit",
+                "img": "",
+                "data": "02/05/2022"
+            },
+            {
+                "id": "2",
+                "title": "Excelente no conforto e no modelo.",
+                "nome": "joão",
+                "local": "RIO DAS OSTRAS RJ",
+                "msg": "Pode comprar, excelente produto, Tenho outros, mas é é espetacular, sem contar que a cor é linda.",
+                "img": "",
+                "data": "10/04/2022"
+            },
+            {
+                "id": "3",
+                "title": "Top demais",
+                "nome": "Junior",
+                "local": "Rio de Janeiro",
+                "msg": "Produto muito Top",
+                "img": "",
+                "data": "08/04/2022"
+            }
+        ]
+    
+}

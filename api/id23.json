@@ -1,0 +1,87 @@
+{
+    "id": "23",
+    "nome": "TÊNIS X-RAY 2 SQUARE PACK",
+    "desc": "Feito para elevar a coleção de qualquer sneakerhead, o tênis X-RAY 2 Square PACK traz elementos inspirados na fenômeno Y2K e estética retrô-futurista. Com entressola IMEVA para maior conforto, o modelo traz ainda sola de borracha e a icônica faixa PUMA Formstrip na lateral para arrematar o design.",
+    "img": {
+        "imgPoster": "https://tenis-api.herokuapp.com/img/puma/femenino/casual/x-ray/img-1.webp",
+        "img2": "https://tenis-api.herokuapp.com/img/puma/femenino/casual/x-ray/img-2.webp",
+        "img3": "https://tenis-api.herokuapp.com/img/puma/femenino/casual/x-ray/img-3.webp",
+        "img4": "https://tenis-api.herokuapp.com/img/puma/femenino/casual/x-ray/img-4.webp"
+    },
+    "video": {
+        "status": "false",
+        "videoLink": ""
+    },
+    "preco": {
+        "moeda": "BRL",
+        "precoBase": "429,90",
+        "precoPromo": "429,90"
+       
+    },
+    "cor":"preto branco",
+      
+            "size":{
+     
+                "t34": {
+                    "quantidade": ""
+                },
+                "t35":{
+                    "quantidade":"3"
+                },
+                "t36": {
+                    "quantidade": "2"
+                },
+                "t37": {
+                    "quantidade": "2"
+                },
+                "t38":{
+                    "quantidade":"1"
+                },
+                "t39": {
+                    "quantidade": "5"
+                },
+                "t40": {
+                    "quantidade": "3"
+                },
+                "t41":{
+                    "quantidade":""
+                },
+                "t42": {
+                    "quantidade": ""
+                },
+                "t43": {
+                    "quantidade": ""
+                },
+                "t44": {
+                    "quantidade": ""
+                },
+                "t45": {
+                    "quantidade": ""
+                }
+            },
+        
+   
+    "nota": "3.0",
+       
+        "comment": [
+            {
+                "id": "1",
+                "title": "Lindo e Sola confortável. Cuidado com o tamanho",
+                "nome": "Fernando",
+                "local": "Teresina-Pi",
+                "msg": "O tênis aperta um pouco porque não é de cadarço, mas acredito que com o tempo fique mais confortável. Achei bonito e confortável.",
+                "img": "",
+                "data": "20/01/2022"
+            },
+            {
+                "id": "1",
+                "title": "Amei",
+                "nome": "Maia",
+                "local": "Teresina-Pi",
+                "msg": "um pouco apertado, mas tô na esperança de ceder um pouco. Ele é lindo!",
+                "img": "",
+                "data": "19/03/2022"
+            }
+        ]
+    
+}

@@ -1,0 +1,88 @@
+{
+    "id": "29",
+    "nome": "TÊNIS RUN FALCON 2.0",
+    "desc": "Prepare-se para correr no parque com este tênis de corrida, seguido de um café com os amigos. Com cabedal em mesh para respirabilidade extraordinária, ele proporciona conforto o dia todo. O solado de borracha durável oferece uma base sólida, não importa quão cheia esteja a sua agenda.",
+    "img": {
+        "imgPoster": "https://tenis-api.herokuapp.com/img/adidas/masculino/casual/falcon/img-1.webp",
+        "img2": "https://tenis-api.herokuapp.com/img/adidas/masculino/casual/falcon/img-2.webp",
+        "img3": "https://tenis-api.herokuapp.com/img/adidas/masculino/casual/falcon/img-3.webp",
+        "img4": "https://tenis-api.herokuapp.com/img/adidas/masculino/casual/falcon/img-4.webp"
+       
+    },
+    "video": {
+        "status": "false",
+        "videoLink": ""
+    },
+    "preco": {
+        "moeda": "BRL",
+        "precoBase": "349,99",
+        "precoPromo": "349,99"
+       
+    },
+    "cor":"Preto",
+      
+            "size":{
+     
+                "t34": {
+                    "quantidade": "1"
+                },
+                "t35":{
+                    "quantidade":"3"
+                },
+                "t36": {
+                    "quantidade": "2"
+                },
+                "t37": {
+                    "quantidade": "20"
+                },
+                "t38":{
+                    "quantidade":"10"
+                },
+                "t39": {
+                    "quantidade": "3"
+                },
+                "t40": {
+                    "quantidade": "3"
+                },
+                "t41":{
+                    "quantidade":"2"
+                },
+                "t42": {
+                    "quantidade": "1"
+                },
+                "t43": {
+                    "quantidade": ""
+                },
+                "t44": {
+                    "quantidade": ""
+                },
+                "t45": {
+                    "quantidade": ""
+                }
+            },
+        
+   
+    "nota": "4.4",
+       
+        "comment": [
+            {
+                "id": "1",
+                "title": "Tênis muito bom , com ótimo preço",
+                "nome": "Bruna",
+                "local": "Aracaju , Sergipe",
+                "msg": "Chegou antes do tempo. Tênis confortável, veste muito bem com meia cano médio ou cano curto, recomendo",
+                "img": "",
+                "data": "10/01/2022"
+            },
+            {
+                "id": "1",
+                "title": "bom",
+                "nome": "Junior",
+                "local": "Rio de Janeiro",
+                "msg": "No solado existe uma parte concova branca. Se o piso estiver molhado ao caminhar esta parte faz um vácuo que gruda o pe no chao",
+                "img": "",
+                "data": "11/03/2022"
+            }
+        ]
+    
+}

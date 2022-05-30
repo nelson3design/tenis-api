@@ -1,0 +1,88 @@
+{
+    "id": "37",
+    "nome": "TÊNIS ULTRABOOST 5 DNA",
+    "desc": "Nada bate o Ultraboost no quesito conforto. Embora o design original tenha sido desenvolvido para as pistas, este tênis de corrida adidas também mergulhou fundo no mundo do estilo com suas bolinhas chamativas.",
+    "img": {
+        "imgPoster": "https://tenis-api.herokuapp.com/img/adidas/femenino/corrida/ultra/img-1.webp",
+        "img2": "https://tenis-api.herokuapp.com/img/adidas/femenino/corrida/ultra/img-2.webp",
+        "img3": "https://tenis-api.herokuapp.com/img/adidas/femenino/corrida/ultra/img-3.webp",
+        "img4": "https://tenis-api.herokuapp.com/img/adidas/femenino/corrida/ultra/img-4.webp"
+    },
+    "video": {
+        "status": "false",
+        "videoLink": ""
+    },
+    "preco": {
+        "moeda": "BRL",
+        "precoBase": "999,99",
+        "precoPromo": "999,99"
+       
+    },
+    "cor":"preto",
+      
+            "size":{
+     
+                "t34": {
+                    "quantidade": ""
+                },
+                "t35":{
+                    "quantidade":"2"
+                },
+                "t36": {
+                    "quantidade": "5"
+                },
+                "t37": {
+                    "quantidade": "1"
+                },
+                "t38":{
+                    "quantidade":"2"
+                },
+                "t39": {
+                    "quantidade": "3"
+                },
+                "t40": {
+                    "quantidade": "3"
+                },
+                "t41":{
+                    "quantidade":""
+                },
+                "t42": {
+                    "quantidade": ""
+                },
+                "t43": {
+                    "quantidade": ""
+                },
+                "t44": {
+                    "quantidade": ""
+                },
+                "t45": {
+                    "quantidade": ""
+                }
+            },
+        
+   
+    "nota": "4.0",
+       
+        "comment": [
+            {
+                "id": "1",
+                "title": "Adoerei, super confortável!!!",
+                "nome": "joice",
+                "local": "RS",
+                "msg": "Na verdade comprei para dar de presente a uma médica que passa as noites correndo de um lado para o outro em seus plantões, e ela me agradeceu",
+                "img": "",
+                "data": "17/01/2022"
+            },
+            {
+                "id": "2",
+                "title": "Melhor tênis, melhor compra",
+                "nome": "ju",
+                "local": "sp",
+                "msg": "Conforto, segurança, qualidade e super bonito. Melhor compra que fiz e venho repetindo",
+                "img": "",
+                "data": "03/03/2022"
+            }
+           
+        ]
+    
+}

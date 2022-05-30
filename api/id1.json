@@ -1,0 +1,96 @@
+{
+    "id": "1",
+    "nome": "Tênis Nike Air Force 1 '07 Essential Feminino",
+    "desc": "O brilho perdura no Nike Air Force 1 '07, o original do basquete que dá um toque renovado naquilo que você conhece bem: sobreposições costuradas, cores vibrantes e o toque certo de basquete para chamar a atenção. O Swoosh estampado de paisley e o calcanhar são alegre, legais e acrescentam uma elegância atemporal.",
+    "img": {
+        "imgPoster": "https://tenis-api.herokuapp.com/img/nike/femenino/casual/air-force/tenis-w-air-force-1.webp",
+        "img2": "https://tenis-api.herokuapp.com/img/nike/femenino/casual/air-force/tenis-w-air-force-2.webp",
+        "img3": "https://tenis-api.herokuapp.com/img/nike/femenino/casual/air-force/tenis-w-air-force-3.webp",
+        "img4": "https://tenis-api.herokuapp.com/img/nike/femenino/casual/air-force/tenis-w-air-force-4.webp"
+    },
+    "video": {
+        "status": "false",
+        "videoLink": ""
+    },
+    "preco": {
+        "moeda": "BRL",
+        "precoBase": "699,99",
+        "precoPromo": "699,99",
+        "procoDesconto": "699,99"
+    },
+    "cor":"branco", 
+       
+            "size":{
+     
+                "t34": {
+                    "quantidade": ""
+                },
+                "t35":{
+                    "quantidade":""
+                },
+                "t36": {
+                    "quantidade": ""
+                },
+                "t37": {
+                    "quantidade": ""
+                },
+                "t38":{
+                    "quantidade":"10"
+                },
+                "t39": {
+                    "quantidade": "15"
+                },
+                "t40": {
+                    "quantidade": "13"
+                },
+                "t41":{
+                    "quantidade":""
+                },
+                "t42": {
+                    "quantidade": ""
+                },
+                "t43": {
+                    "quantidade": ""
+                },
+                "t44": {
+                    "quantidade": ""
+                },
+                "t45": {
+                    "quantidade": ""
+                }
+            },
+        
+    
+    "nota":"5.0",
+       
+        "comment": [
+            {
+                "id": "1",
+                "title": "Lindo demais! Nike é Nike né Pai... haha",
+                "nome": "Jota",
+                "local": "Franca SP",
+                "msg": "Brabo demais!",
+                "img": "",
+                "data": "09/04/2022"
+            },
+            {
+                "id": "2",
+                "title": "Air force melhor linha da nike",
+                "nome": "Julia",
+                "local": "Paraná",
+                "msg": "Confortável e de excelente qualidade",
+                "img": "",
+                "data": "10/04/2022"
+            },
+            {
+                "id": "3",
+                "title": "Super confortável (mais que o tradicional), e lindo!!!",
+                "nome": "Ana",
+                "local": "São josé do rio preto",
+                "msg": "Recomendo",
+                "img": "",
+                "data": "28/04/2022"
+            }
+        ]
+    
+}

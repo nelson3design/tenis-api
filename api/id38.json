@@ -1,0 +1,88 @@
+{
+    "id": "38",
+    "nome": "TÊNIS ULTRABOOST 22 X RICH MNISI",
+    "desc": "O Ultraboost 22 W X Rich Mnisi é novo para essas características de filtro em nosso website, na categoria Mulher. Mas você já pode visualizar as imagens acima e ter mais detalhes, para conhecer o produto de diferentes ângulos em primeira mão.",
+    "img": {
+        "imgPoster": "https://tenis-api.herokuapp.com/img/adidas/femenino/corrida/rich/img-1.webp",
+        "img2": "https://tenis-api.herokuapp.com/img/adidas/femenino/corrida/rich/img-2.webp",
+        "img3": "https://tenis-api.herokuapp.com/img/adidas/femenino/corrida/rich/img-3.webp",
+        "img4": "https://tenis-api.herokuapp.com/img/adidas/femenino/corrida/rich/img-4.webp"
+    },
+    "video": {
+        "status": "false",
+        "videoLink": ""
+    },
+    "preco": {
+        "moeda": "BRL",
+        "precoBase": "1.299,99",
+        "precoPromo": "1.299,99"
+       
+    },
+    "cor":"preto",
+      
+            "size":{
+     
+                "t34": {
+                    "quantidade": ""
+                },
+                "t35":{
+                    "quantidade":"10"
+                },
+                "t36": {
+                    "quantidade": "6"
+                },
+                "t37": {
+                    "quantidade": "1"
+                },
+                "t38":{
+                    "quantidade":"9"
+                },
+                "t39": {
+                    "quantidade": "2"
+                },
+                "t40": {
+                    "quantidade": ""
+                },
+                "t41":{
+                    "quantidade":""
+                },
+                "t42": {
+                    "quantidade": ""
+                },
+                "t43": {
+                    "quantidade": ""
+                },
+                "t44": {
+                    "quantidade": ""
+                },
+                "t45": {
+                    "quantidade": ""
+                }
+            },
+        
+   
+    "nota": "5.0",
+       
+        "comment": [
+            {
+                "id": "1",
+                "title": "Tênis Adidas sempre preciso comprar um número maior. Vale muito a pena cada centavo. Cores vibrantes",
+                "nome": "sandra",
+                "local": "RS",
+                "msg": "Conforto inexplicável. Recomendo muito. Tenho dores nos pés e Ultra22 no geral foi excelente. É meu segundo!",
+                "img": "",
+                "data": "04/01/2022"
+            },
+            {
+                "id": "2",
+                "title": "Melhor compra! Super confortável",
+                "nome": "rafaela",
+                "local": "RJ",
+                "msg": "Ele tem muita estabilidade para exercícios em academia!",
+                "img": "",
+                "data": "12/02/2022"
+            }
+           
+        ]
+    
+}

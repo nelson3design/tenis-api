@@ -1,0 +1,87 @@
+{
+    "id": "28",
+    "nome": "TÊNIS BREAKNET PLUS",
+    "desc": "Um visual clássico define o estilo deste tênis adidas inspirado nas quadras. As Três Listras e detalhes em camurça no cabedal de couro dão um toque premium e facilitam a combinação com um guarda-roupa urbano moderno.",
+    "img": {
+        "imgPoster": "https://tenis-api.herokuapp.com/img/adidas/masculino/casual/plus/img-1.webp",
+        "img2": "https://tenis-api.herokuapp.com/img/adidas/masculino/casual/plus/img-2.webp",
+        "img3": "https://tenis-api.herokuapp.com/img/adidas/masculino/casual/plus/img-3.webp",
+        "img4": "https://tenis-api.herokuapp.com/img/adidas/masculino/casual/plus/img-4.webp"
+    },
+    "video": {
+        "status": "false",
+        "videoLink": ""
+    },
+    "preco": {
+        "moeda": "BRL",
+        "precoBase": "399,99",
+        "precoPromo": "399,99"
+       
+    },
+    "cor":"branco",
+      
+            "size":{
+     
+                "t34": {
+                    "quantidade": "1"
+                },
+                "t35":{
+                    "quantidade":"3"
+                },
+                "t36": {
+                    "quantidade": "20"
+                },
+                "t37": {
+                    "quantidade": "20"
+                },
+                "t38":{
+                    "quantidade":"10"
+                },
+                "t39": {
+                    "quantidade": "5"
+                },
+                "t40": {
+                    "quantidade": "3"
+                },
+                "t41":{
+                    "quantidade":""
+                },
+                "t42": {
+                    "quantidade": "9"
+                },
+                "t43": {
+                    "quantidade": "4"
+                },
+                "t44": {
+                    "quantidade": ""
+                },
+                "t45": {
+                    "quantidade": ""
+                }
+            },
+        
+   
+    "nota": "4.4",
+       
+        "comment": [
+            {
+                "id": "1",
+                "title": "Produto excelente, igual da foto, super confortável, muito bem bonito, fica super bem no pé",
+                "nome": "Loryss23",
+                "local": "SP",
+                "msg": "Ideal para qualquer ocasião, super indico, muito confortável, fácil de lavar, combina com tudo.",
+                "img": "",
+                "data": "20/02/2022"
+            },
+            {
+                "id": "2",
+                "title": "muito bom",
+                "nome": "Cassio",
+                "local": "são paulo",
+                "msg": "Comprei na numeração que uso. Tenho usado nos treinos de ritmo, Tênis muito bom, super leve e macio.",
+                "img": "",
+                "data": "11/04/2022"
+            }
+        ]
+    
+}

@@ -1,0 +1,96 @@
+{
+    "id": "33",
+    "nome": "TÊNIS NMD_R1",
+    "desc": "Com este tênis adidas NMD_R1, tudo acontece em questão de segundos. Poucos segundos para ficar pronto e confortável para sair. Como o tempo passa rápido, este tênis foi desenvolvido para acompanhar os seus pés o dia todo, contribuindo com o melhor da tecnologia adidas.",
+    "img": {
+        "imgPoster": "https://tenis-api.herokuapp.com/img/adidas/femenino/casual/nmd/img-1.webp",
+        "img2": "https://tenis-api.herokuapp.com/img/adidas/femenino/casual/nmd/img-2.webp",
+        "img3": "https://tenis-api.herokuapp.com/img/adidas/femenino/casual/nmd/img-3.webp",
+        "img4": "https://tenis-api.herokuapp.com/img/adidas/femenino/casual/nmd/img-4.webp"
+    },
+    "video": {
+        "status": "false",
+        "videoLink": ""
+    },
+    "preco": {
+        "moeda": "BRL",
+        "precoBase": "899,99",
+        "precoPromo": "899,99"
+       
+    },
+    "cor":"branco",
+      
+            "size":{
+     
+                "t34": {
+                    "quantidade": "2"
+                },
+                "t35":{
+                    "quantidade":"8"
+                },
+                "t36": {
+                    "quantidade": "3"
+                },
+                "t37": {
+                    "quantidade": "2"
+                },
+                "t38":{
+                    "quantidade":"9"
+                },
+                "t39": {
+                    "quantidade": "3"
+                },
+                "t40": {
+                    "quantidade": ""
+                },
+                "t41":{
+                    "quantidade":""
+                },
+                "t42": {
+                    "quantidade": ""
+                },
+                "t43": {
+                    "quantidade": ""
+                },
+                "t44": {
+                    "quantidade": ""
+                },
+                "t45": {
+                    "quantidade": ""
+                }
+            },
+        
+   
+    "nota": "3.0",
+       
+        "comment": [
+            {
+                "id": "1",
+                "title": "Meu tênis chegou sem palmilha e com manchas de cola aparecendo",
+                "nome": "renata",
+                "local": "palhoça",
+                "msg": "Gostaria de saber o que aconteceu por ter vindo sem palhinha e com as marcas de cola",
+                "img": "",
+                "data": "23/03/2022"
+            },
+            {
+                "id": "2",
+                "title": "Achei que fosse mais macio, esse tênis não tem palmilhas, achei estranho….",
+                "nome": "iraciara",
+                "local": "sc",
+                "msg": "Bonito e leve, mas não é confortável esperava que fosse mais macio, ele aberta nos tornozelos",
+                "img": "",
+                "data": "10/04/2022"
+            },
+            {
+                "id": "3",
+                "title": "Só faltou uma palmilha, de resto é lindo.",
+                "nome": "pati",
+                "local": "Rio de Janeiro",
+                "msg": "Só faltou uma palmilha, mas é lindo de qualquer forma",
+                "img": "",
+                "data": "20/05/2022"
+            }
+        ]
+    
+}

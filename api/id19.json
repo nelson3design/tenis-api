@@ -1,0 +1,70 @@
+{
+    "id": "19",
+    "nome": "TÊNIS COURT RIDER 2.0 BASKETBALL",
+    "desc": "Feito para entregar o máximo de tração, o tênis Court Rider 2.0 Basketball combina o DNA street style PUMA com funcionalidades idealizadas para elevar o seu desempenho nas quadras de basquete. Com entressola em construção de espuma Dual Pod, o modelo traz ainda sola em composto de borracha ultra aderente e sistema de amarração inovador do médio ao ante-pé para o encaixe ideal. Vestiu, driblou.",
+    "img": {
+        "imgPoster": "https://tenis-api.herokuapp.com/img/puma/masculino/basquete/rider/img-1.webp",
+        "img2": "https://tenis-api.herokuapp.com/img/puma/masculino/basquete/rider/img-2.webp",
+        "img3": "https://tenis-api.herokuapp.com/img/puma/masculino/basquete/rider/img-3.webp",
+        "img4": "https://tenis-api.herokuapp.com/img/puma/masculino/basquete/rider/img-4.webp"
+    },
+    "video": {
+        "status": "false",
+        "videoLink": ""
+    },
+    "preco": {
+        "moeda": "BRL",
+        "precoBase": "699,90",
+        "precoPromo": "699,90"
+       
+    },
+    "cor":"Porto azul Oceano",
+      
+            "size":{
+     
+                "t34": {
+                    "quantidade": ""
+                },
+                "t35":{
+                    "quantidade":""
+                },
+                "t36": {
+                    "quantidade": "2"
+                },
+                "t37": {
+                    "quantidade": "6"
+                },
+                "t38":{
+                    "quantidade":"10"
+                },
+                "t39": {
+                    "quantidade": "15"
+                },
+                "t40": {
+                    "quantidade": "13"
+                },
+                "t41":{
+                    "quantidade":""
+                },
+                "t42": {
+                    "quantidade": "8"
+                },
+                "t43": {
+                    "quantidade": ""
+                },
+                "t44": {
+                    "quantidade": "9"
+                },
+                "t45": {
+                    "quantidade": "1"
+                }
+            },
+        
+   
+    "nota": "3.4",
+       
+        "comment": [
+           
+        ]
+    
+}

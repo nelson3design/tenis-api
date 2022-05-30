@@ -1,0 +1,67 @@
+{
+    "id": "4",
+    "nome": "Tênis Nike ZoomX Streakfly Unissex",
+    "desc": "O Nike ZoomX Streakfly é o tênis de corrida mais leve da Nike e proporciona a velocidade necessária para competições de qualquer distância. O perfil baixo com com detalhes elegantes torna o tênis imperceptível em seus pés, ajudando a se concentrar melhor na estrada e a atingir seus recordes pessoais.",
+    "img": {
+        "imgPoster": "https://tenis-api.herokuapp.com/img/nike/femenino/corrida/zoomx/tenis-nike-zoomx-streakfly-1.webp",
+        "img2": "https://tenis-api.herokuapp.com/img/nike/femenino/corrida/zoomx/tenis-nike-zoomx-streakfly-2.webp",
+        "img3": "https://tenis-api.herokuapp.com/img/nike/femenino/corrida/zoomx/tenis-nike-zoomx-streakfly-3.webp",
+        "img4": "https://tenis-api.herokuapp.com/img/nike/femenino/corrida/zoomx/tenis-nike-zoomx-streakfly-4.webp"
+    },
+    "video": {
+        "status": "false",
+        "videoLink": ""
+    },
+    "preco": {
+        "moeda": "BRL",
+        "precoBase": "999,99",
+        "precoPromo": "999,99",
+        "procoDesconto": "999,99"
+    },
+   "cor": "branco",
+   "size":{
+     
+    "t34": {
+        "quantidade": ""
+    },
+    "t35":{
+        "quantidade":""
+    },
+    "t36": {
+        "quantidade": ""
+    },
+    "t37": {
+        "quantidade": ""
+    },
+    "t38":{
+        "quantidade":"10"
+    },
+    "t39": {
+        "quantidade": "15"
+    },
+    "t40": {
+        "quantidade": "13"
+    },
+    "t41":{
+        "quantidade":""
+    },
+    "t42": {
+        "quantidade": ""
+    },
+    "t43": {
+        "quantidade": ""
+    },
+    "t44": {
+        "quantidade": ""
+    },
+    "t45": {
+        "quantidade": ""
+    }
+},
+    "nota": "",
+       
+        "comment": [
+            
+        ]
+    
+}

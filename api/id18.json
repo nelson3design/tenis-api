@@ -1,0 +1,78 @@
+{
+    "id": "18",
+    "nome": "TÊNIS MB1 GALAXY BASKETBALL",
+    "desc": "Feito para elevar a sua performance nas quadras com o máximo de conforto, o tênis MB1 Galaxy Basketball traz ainda silhueta baixa ultra cool e fechamento de cadarço para o encaixe ideal.",
+    "img": {
+        "imgPoster": "https://tenis-api.herokuapp.com/img/puma/masculino/basquete/galaxy/img-1.webp",
+        "img2": "https://tenis-api.herokuapp.com/img/puma/masculino/basquete/galaxy/img-2.webp",
+        "img3": "https://tenis-api.herokuapp.com/img/puma/masculino/basquete/galaxy/img-3.webp",
+        "img4": "https://tenis-api.herokuapp.com/img/puma/masculino/basquete/galaxy/img-4.webp"
+    },
+    "video": {
+        "status": "false",
+        "videoLink": ""
+    },
+    "preco": {
+        "moeda": "BRL",
+        "precoBase": "1.199,90",
+        "precoPromo": "1.199,90"
+       
+    },
+    "cor":"preto",
+      
+            "size":{
+     
+                "t34": {
+                    "quantidade": ""
+                },
+                "t35":{
+                    "quantidade":""
+                },
+                "t36": {
+                    "quantidade": "2"
+                },
+                "t37": {
+                    "quantidade": "2"
+                },
+                "t38":{
+                    "quantidade":"1"
+                },
+                "t39": {
+                    "quantidade": "5"
+                },
+                "t40": {
+                    "quantidade": "3"
+                },
+                "t41":{
+                    "quantidade":""
+                },
+                "t42": {
+                    "quantidade": "5"
+                },
+                "t43": {
+                    "quantidade": ""
+                },
+                "t44": {
+                    "quantidade": "10"
+                },
+                "t45": {
+                    "quantidade": ""
+                }
+            },
+        
+   
+    "nota": "5.0",
+       
+        "comment": [
+            {
+                "id": "1",
+                "title": "MARAVILHOSO",
+                "nome": "Jamylle",
+                "local": "Uberlândia-MG",
+                "msg": "Os defeitos do tênis são: Ele é difícil de calçar, ele fica marcando com linhas a parte branca do calcanhar e não ficou muito bonito no designer na cor preta, ficou muito simples.",
+                "img": "",
+                "data": "10/04/2022"
+            }
+        ]
+    
+}

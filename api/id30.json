@@ -1,0 +1,96 @@
+{
+    "id": "30",
+    "nome": "TÊNIS TRAE YOUNG 1",
+    "desc": "O futuro do jogo se parece com Trae Young: arrojado, destemido e com um toque de intensidade. O mais novo tênis assinado pela adidas Basketball e por Trae Young acompanha movimentos tão rápidos que isso acontece quase sem você perceber.",
+    "img": {
+        "imgPoster": "https://tenis-api.herokuapp.com/img/adidas/masculino/basquete/young/img-1.webp",
+        "img2": "https://tenis-api.herokuapp.com/img/adidas/masculino/basquete/young/img-2.webp",
+        "img3": "https://tenis-api.herokuapp.com/img/adidas/masculino/basquete/young/img-3.webp",
+        "img4": "https://tenis-api.herokuapp.com/img/adidas/masculino/basquete/young/img-4.webp"
+    },
+    "video": {
+        "status": "false",
+        "videoLink": ""
+    },
+    "preco": {
+        "moeda": "BRL",
+        "precoBase": "899,99",
+        "precoPromo": "899,99"
+       
+    },
+    "cor":"Preto azul",
+      
+            "size":{
+     
+                "t34": {
+                    "quantidade": ""
+                },
+                "t35":{
+                    "quantidade":""
+                },
+                "t36": {
+                    "quantidade": ""
+                },
+                "t37": {
+                    "quantidade": ""
+                },
+                "t38":{
+                    "quantidade":""
+                },
+                "t39": {
+                    "quantidade": "3"
+                },
+                "t40": {
+                    "quantidade": "3"
+                },
+                "t41":{
+                    "quantidade":"2"
+                },
+                "t42": {
+                    "quantidade": "1"
+                },
+                "t43": {
+                    "quantidade": "2"
+                },
+                "t44": {
+                    "quantidade": "9"
+                },
+                "t45": {
+                    "quantidade": "2"
+                }
+            },
+        
+   
+    "nota": "5.0",
+       
+        "comment": [
+            {
+                "id": "1",
+                "title": "Otima",
+                "nome": "jão",
+                "local": "palhoça",
+                "msg": "Produto de ótima qualidade recomendo, muito diferente dis outros amei o tenis",
+                "img": "",
+                "data": "14/03/2022"
+            },
+            {
+                "id": "2",
+                "title": "Congelante",
+                "nome": "Junior",
+                "local": "Rio de Janeiro",
+                "msg": "Muito confortável e os extra laces com o lace locker é muito prático",
+                "img": "",
+                "data": "15/05/2022"
+            },
+            {
+                "id": "3",
+                "title": "Congelante",
+                "nome": "Junior",
+                "local": "Rio de Janeiro",
+                "msg": "Muito confortável e os extra laces com o lace locker é muito prático",
+                "img": "",
+                "data": "15/05/2022"
+            }
+        ]
+    
+}

@@ -1,0 +1,17 @@
+*{
+    background-color: #333;
+}
+
+h2{
+    font-size: 20px;
+}
+
+div{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+div span{
+    font-size: 16px;
+    font-weight: 400;
+}

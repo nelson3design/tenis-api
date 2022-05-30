@@ -1,0 +1,93 @@
+{
+    "id": "11",
+    "nome": "Tênis Air Jordan 13 Retro Masculino",
+    "desc": "O Air Jordan 13 Retro traz de volta os inesquecíveis tênis de jogo que Michael Jordan usou durante a temporada de 97-98 rumo ao seu 6º título de campeonato. Todos os detalhes clássicos estão presentes, como a sobreposição acolchoada, a icônica entressola esculpida e o olho holográfico.",
+    "img": {
+        "imgPoster": "https://tenis-api.herokuapp.com/img/nike/masculino/basquete/jordan/tenis-air-jordan-1.webp",
+        "img2": "https://tenis-api.herokuapp.com/img/nike/masculino/basquete/jordan/tenis-air-jordan-2.webp",
+        "img3": "https://tenis-api.herokuapp.com/img/nike/masculino/basquete/jordan/tenis-air-jordan-3.webp",
+        "img4": "https://tenis-api.herokuapp.com/img/nike/masculino/basquete/jordan/tenis-air-jordan-4.webp"
+    },
+    "video": {
+        "status": "false",
+        "videoLink": ""
+    },
+    "preco": {
+        "moeda": "BRL",
+        "precoBase": "1.499,99",
+        "precoPromo": "1.499,99",
+        "procoDesconto": "1.499,99"
+    },
+    "cor": "branco",
+    "size":{
+     
+        "t34": {
+            "quantidade": ""
+        },
+        "t35":{
+            "quantidade":""
+        },
+        "t36": {
+            "quantidade": ""
+        },
+        "t37": {
+            "quantidade": ""
+        },
+        "t38":{
+            "quantidade":"10"
+        },
+        "t39": {
+            "quantidade": "15"
+        },
+        "t40": {
+            "quantidade": "13"
+        },
+        "t41":{
+            "quantidade":""
+        },
+        "t42": {
+            "quantidade": ""
+        },
+        "t43": {
+            "quantidade": ""
+        },
+        "t44": {
+            "quantidade": ""
+        },
+        "t45": {
+            "quantidade": ""
+        }
+    },
+    "nota":"5.0",
+       
+        "comment": [
+            {
+                "id": "1",
+                "title": "Maravilhoso. Espetacular.",
+                "nome": "Ronaldo FB",
+                "local": "Ribeirão da Neves Mg",
+                "msg": "Tenis muito lindo. Superou expectativas. Site muito rápido na troca e no envio.",
+                "img": "",
+                "data": "03/01/2022"
+            },
+            {
+                "id": "2",
+                "title": "Excelente",
+                "nome": "TR SNEAKERS",
+                "local": "Parnamirim",
+                "msg": "Recomendo comprar sempre um tamanho maior. No meu caso, calço 40, antes eu havia adquirido um Jordan 9 na numeração padrão e ele ficou apertado. Com essa experiência, resolvi pegar o Jordan 13 no tamanho 41 e ficou muito bom.",
+                "img": "",
+                "data": "10/02/2022"
+            },
+            {
+                "id": "3",
+                "title": "Excelente produto",
+                "nome": "Cidi",
+                "local": "Santos",
+                "msg": "Excelente produto, confortável com um design lindo.",
+                "img": "",
+                "data": "03/03/2022"
+            }
+        ]
+    
+}

@@ -1,0 +1,88 @@
+{
+    "id": "36",
+    "nome": "TÊNIS PUREBOOST 22",
+    "desc": "Você não precisa ir muito longe para perceber os benefícios da corrida. Com este tênis de corrida adidas nos pés, a sensação de bem-estar fica cada vez mais próxima.",
+    "img": {
+        "imgPoster": "https://tenis-api.herokuapp.com/img/adidas/femenino/corrida/pure/img-1.webp",
+        "img2": "https://tenis-api.herokuapp.com/img/adidas/femenino/corrida/pure/img-2.webp",
+        "img3": "https://tenis-api.herokuapp.com/img/adidas/femenino/corrida/pure/img-3.webp",
+        "img4": "https://tenis-api.herokuapp.com/img/adidas/femenino/corrida/pure/img-4.webp"
+    },
+    "video": {
+        "status": "false",
+        "videoLink": ""
+    },
+    "preco": {
+        "moeda": "BRL",
+        "precoBase": "899,99",
+        "precoPromo": "899,99"
+       
+    },
+    "cor":"preto",
+      
+            "size":{
+     
+                "t34": {
+                    "quantidade": ""
+                },
+                "t35":{
+                    "quantidade":""
+                },
+                "t36": {
+                    "quantidade": "3"
+                },
+                "t37": {
+                    "quantidade": "10"
+                },
+                "t38":{
+                    "quantidade":"9"
+                },
+                "t39": {
+                    "quantidade": "3"
+                },
+                "t40": {
+                    "quantidade": "5"
+                },
+                "t41":{
+                    "quantidade":"2"
+                },
+                "t42": {
+                    "quantidade": ""
+                },
+                "t43": {
+                    "quantidade": ""
+                },
+                "t44": {
+                    "quantidade": ""
+                },
+                "t45": {
+                    "quantidade": ""
+                }
+            },
+        
+   
+    "nota": "4.0",
+       
+        "comment": [
+            {
+                "id": "1",
+                "title": "Perfeito!",
+                "nome": "arlene",
+                "local": "sp",
+                "msg": "Muito bonito e de ótima qualidade! Recomendo muito.",
+                "img": "",
+                "data": "10/03/2022"
+            },
+            {
+                "id": "2",
+                "title": "Tênis leve, confortável, excelente amortecimento para corrida.",
+                "nome": "sara",
+                "local": "sc",
+                "msg": "Perfeito ajuste nos pés e tem um lindo design.....",
+                "img": "",
+                "data": "10/05/2022"
+            }
+           
+        ]
+    
+}

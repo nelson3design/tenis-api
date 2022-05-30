@@ -1,0 +1,87 @@
+{
+    "id": "27",
+    "nome": "TÊNIS BARRICADE",
+    "desc": "Mostre suas cores. Usado por atletas da adidas no maior torneio do hemisfério sul, este tênis faz parte de uma coleção vibrante que evidencia as consequências da mudança climática. O sistema de cadarços intuitivo combina-se aos Sensepods que preenchem os espaços vazios, ajudando você a se sentir em harmonia com seu tênis. Por baixo, a entressola Bounce amortecida e a haste de TPU no mediopé adicionam conforto e estabilidade.",
+    "img": {
+        "imgPoster": "https://tenis-api.herokuapp.com/img/adidas/masculino/casual/bar/img-1.webp",
+        "img2": "https://tenis-api.herokuapp.com/img/adidas/masculino/casual/bar/img-2.webp",
+        "img3": "https://tenis-api.herokuapp.com/img/adidas/masculino/casual/bar/img-3.webp",
+        "img4": "https://tenis-api.herokuapp.com/img/adidas/masculino/casual/bar/img-4.webp"
+    },
+    "video": {
+        "status": "false",
+        "videoLink": ""
+    },
+    "preco": {
+        "moeda": "BRL",
+        "precoBase": "799,99",
+        "precoPromo": "799,99"
+       
+    },
+    "cor":"branco",
+      
+            "size":{
+     
+                "t34": {
+                    "quantidade": ""
+                },
+                "t35":{
+                    "quantidade":"3"
+                },
+                "t36": {
+                    "quantidade": "2"
+                },
+                "t37": {
+                    "quantidade": "20"
+                },
+                "t38":{
+                    "quantidade":"1"
+                },
+                "t39": {
+                    "quantidade": "5"
+                },
+                "t40": {
+                    "quantidade": "3"
+                },
+                "t41":{
+                    "quantidade":""
+                },
+                "t42": {
+                    "quantidade": "2"
+                },
+                "t43": {
+                    "quantidade": "7"
+                },
+                "t44": {
+                    "quantidade": "3"
+                },
+                "t45": {
+                    "quantidade": ""
+                }
+            },
+        
+   
+    "nota": "4.4",
+       
+        "comment": [
+            {
+                "id": "1",
+                "title": "Qualidade e tradição do Barricade",
+                "nome": "Lauro",
+                "local": "Aracaju , Sergipe",
+                "msg": "Tênis leve e seguro. Uma tradição da Adidas. O melhor tênis para as quadras.",
+                "img": "",
+                "data": "20/01/2022"
+            },
+            {
+                "id": "2",
+                "title": "Barricade o melhor tênis com um melhor desempenho.",
+                "nome": "Keycy",
+                "local": "Rio de Janeiro",
+                "msg": "Comprei na numeração que uso. Tenho usado nos treinos de ritmo, Tênis muito bom, super leve e macio.",
+                "img": "",
+                "data": "19/03/2022"
+            }
+        ]
+    
+}

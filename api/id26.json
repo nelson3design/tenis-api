@@ -1,0 +1,87 @@
+{
+    "id": "26",
+    "nome": "TÊNIS ELECTRIFY NITRO TURN FEMININO",
+    "desc": "Apresentando propriedades de última geração fundamentadas em pesquisa e testes de biomecânica, o tênis Electrify Nitro feito para iniciantes e experts das pistas tem tudo que você precisa para revolucionar a sua corrida. Com tecnologia NITRO FOAM para responsividade ultra leve e sola de borracha PUMAGRIP, o modelo traz ainda entressola ProFoam Lite para amortecimento de longa duração, borracha no ante pé para firmeza de flexão, e linhas sinalizadoras na sola para melhorar o direcionamento da passada.",
+    "img": {
+        "imgPoster": "https://tenis-api.herokuapp.com/img/puma/femenino/corrida/elec/img-1.webp",
+        "img2": "https://tenis-api.herokuapp.com/img/puma/femenino/corrida/elec/img-2.webp",
+        "img3": "https://tenis-api.herokuapp.com/img/puma/femenino/corrida/elec/img-3.webp",
+        "img4": "https://tenis-api.herokuapp.com/img/puma/femenino/corrida/elec/img-4.webp"
+    },
+    "video": {
+        "status": "false",
+        "videoLink": ""
+    },
+    "preco": {
+        "moeda": "BRL",
+        "precoBase": "429,90",
+        "precoPromo": "429,90"
+       
+    },
+    "cor":"Azul",
+      
+            "size":{
+     
+                "t34": {
+                    "quantidade": ""
+                },
+                "t35":{
+                    "quantidade":"3"
+                },
+                "t36": {
+                    "quantidade": "2"
+                },
+                "t37": {
+                    "quantidade": "2"
+                },
+                "t38":{
+                    "quantidade":"10"
+                },
+                "t39": {
+                    "quantidade": "5"
+                },
+                "t40": {
+                    "quantidade": "7"
+                },
+                "t41":{
+                    "quantidade":""
+                },
+                "t42": {
+                    "quantidade": ""
+                },
+                "t43": {
+                    "quantidade": ""
+                },
+                "t44": {
+                    "quantidade": ""
+                },
+                "t45": {
+                    "quantidade": ""
+                }
+            },
+        
+   
+    "nota": "4.0",
+       
+        "comment": [
+            {
+                "id": "1",
+                "title": "Tênis excelente para os treinos e rodagens rápidas.",
+                "nome": "Fernando",
+                "local": "sc",
+                "msg": "Vale a pena para treinos de intervalos e rodagens com maior velocidade.",
+                "img": "",
+                "data": "20/03/2022"
+            },
+            {
+                "id": "1",
+                "title": "Ótimo!!!",
+                "nome": "Maciu",
+                "local": "Teresina-Pi",
+                "msg": "Que é um produto de alta qualidade",
+                "img": "",
+                "data": "19/04/2022"
+            }
+        ]
+    
+}

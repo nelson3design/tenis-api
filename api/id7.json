@@ -1,0 +1,92 @@
+{
+    "id":"7",
+    "nome":"Tênis Nike Air Force 1 '07 LV8 2 Masculino",
+    "desc":"Só queremos dizer: 'HAVE A NIKE DAY'. O brilho perdura no original do basquete. Combinando o conforto da quadra com um brilho casual, ele cria um toque amigável no que você já conhece bem: construção dos anos 80 que marcou época, detalhes ousados e estilo esportivo.",
+    "img":{
+        "imgPoster":"https://tenis-api.herokuapp.com/img/nike/masculino/casual/air-force-1/tenis-nike-air-force-1.webp",
+        "img2":"https://tenis-api.herokuapp.com/img/nike/masculino/casual/air-force-1/tenis-nike-air-force-2.webp",
+        "img3":"https://tenis-api.herokuapp.com/img/nike/masculino/casual/air-force-1/tenis-nike-air-force-3.webp",
+        "img4":"https://tenis-api.herokuapp.com/img/nike/masculino/casual/air-force-1/tenis-nike-air-force-4.webp"
+    },
+    "video":{
+        "status":"false",
+        "videoLink":""
+    },
+    "preco":{
+        "moeda":"BRL",
+        "precoBase":"749,99",
+        "precoPromo":"749,99"
+    },
+    "cor":"cinza",
+    "size":{
+     
+        "t34": {
+            "quantidade": ""
+        },
+        "t35":{
+            "quantidade":""
+        },
+        "t36": {
+            "quantidade": ""
+        },
+        "t37": {
+            "quantidade": ""
+        },
+        "t38":{
+            "quantidade":"10"
+        },
+        "t39": {
+            "quantidade": "15"
+        },
+        "t40": {
+            "quantidade": "13"
+        },
+        "t41":{
+            "quantidade":""
+        },
+        "t42": {
+            "quantidade": ""
+        },
+        "t43": {
+            "quantidade": ""
+        },
+        "t44": {
+            "quantidade": ""
+        },
+        "t45": {
+            "quantidade": ""
+        }
+    },
+    "nota":"5.0",
+  
+        "comment":[
+            {
+                "id":"1",
+                "title":"muito bom!",
+                "nome":"flavio",
+                "local":"rondonia",
+                "msg":"excelente produto",
+                "img":"",
+                "data":"09/04/2022"
+            },
+            {
+                "id": "2",
+                "title": "Excelente",
+                "nome": "dani",
+                "local": "jaraguá do sul",
+                "msg": "Comprei o tênis para meu filho e ele amou. Os detalhes do tênis fazem toda diferença no look.",
+                "img": "",
+                "data": "20/04/2022"
+            },
+            {
+                "id": "3",
+                "title": "Faz jus ao que se falam dele. Planejando comprar o próximo",
+                "nome": "alvesnicolas",
+                "local": "são paulo",
+                "msg": "Comprem",
+                "img": "",
+                "data": "28/04/2022"
+            }
+        ]
+    
+}

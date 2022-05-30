@@ -1,0 +1,69 @@
+{
+    "id": "3",
+    "nome": "Tênis Nike SB Zoom Blazer Mid Premium Unissex",
+    "desc": "O Nike SB Zoom Blazer Mid Premium tem algo para todo mundo. Cada detalhe, desde a mistura de materiais em mosaico aos detalhes de retalhos até a lona desbotada e estampada, celebra a unidade e a beleza que pode surgir quando diferentes elementos recebem igual importância.",
+    "img": {
+        "imgPoster": "https://tenis-api.herokuapp.com/img/nike/femenino/casual/sb-zoom/tenis-nike-sb-zoom-1.webp",
+        "img2": "https://tenis-api.herokuapp.com/img/nike/femenino/casual/sb-zoom/tenis-nike-sb-zoom-2.webp",
+        "img3": "https://tenis-api.herokuapp.com/img/nike/femenino/casual/sb-zoom/tenis-nike-sb-zoom-3.webp",
+        "img4": "https://tenis-api.herokuapp.com/img/nike/femenino/casual/sb-zoom/tenis-nike-sb-zoom-4.webp"
+    },
+    "video": {
+        "status": "false",
+        "videoLink": ""
+    },
+    "preco": {
+        "moeda": "BRL",
+        "precoBase": "749,99",
+        "precoPromo": "749,99",
+        "procoDesconto": "749,99"
+    },
+
+    "cor": "branco",
+    "size":{
+     
+        "t34": {
+            "quantidade": ""
+        },
+        "t35":{
+            "quantidade":""
+        },
+        "t36": {
+            "quantidade": ""
+        },
+        "t37": {
+            "quantidade": ""
+        },
+        "t38":{
+            "quantidade":"10"
+        },
+        "t39": {
+            "quantidade": "15"
+        },
+        "t40": {
+            "quantidade": "13"
+        },
+        "t41":{
+            "quantidade":""
+        },
+        "t42": {
+            "quantidade": ""
+        },
+        "t43": {
+            "quantidade": ""
+        },
+        "t44": {
+            "quantidade": ""
+        },
+        "t45": {
+            "quantidade": ""
+        }
+    },
+    
+    "nota": "",
+        
+        "comment": [
+            
+        ]
+    
+}

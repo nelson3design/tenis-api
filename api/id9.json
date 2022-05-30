@@ -1,0 +1,92 @@
+{
+    "id": "9",
+    "nome": "Tênis Nike SB Ishod Wair Masculino",
+    "desc": "Quando chegou a hora de criar seu tênis conceito, Ishod Wair deu tudo de si do início ao fim. Com elementos baseados nos icônicos tênis de basquete dos anos 90, (você sabia que o basquete foi o primeiro amor de Ishod?) e feito com toda a durabilidade necessária para andar de skate com tudo (sério, dá uma olhada nessa nova forma da sola), o Nike SB Ishod Wair une o estilo original do basquete e a inovação moderna do skate.",
+    "img": {
+        "imgPoster": "https://tenis-api.herokuapp.com/img/nike/masculino/casual/sb/tenis-nike-sb-2.webp",
+        "img2": "https://tenis-api.herokuapp.com/img/nike/masculino/casual/sb/tenis-nike-sb-3.webp",
+        "img3": "https://tenis-api.herokuapp.com/img/nike/masculino/casual/sb/tenis-nike-sb-4.webp",
+        "img4": "https://tenis-api.herokuapp.com/img/nike/masculino/casual/sb/tenis-nike-sb-i1.webp"
+    },
+    "video": {
+        "status": "false",
+        "videoLink": ""
+    },
+    "preco": {
+        "moeda": "BRL",
+        "precoBase": "749,99",
+        "precoPromo": "749,99",
+        "procoDesconto": "749,99"
+    },
+    "cor": "azul",
+    "size":{
+     
+        "t34": {
+            "quantidade": ""
+        },
+        "t35":{
+            "quantidade":""
+        },
+        "t36": {
+            "quantidade": ""
+        },
+        "t37": {
+            "quantidade": ""
+        },
+        "t38":{
+            "quantidade":"10"
+        },
+        "t39": {
+            "quantidade": "15"
+        },
+        "t40": {
+            "quantidade": "13"
+        },
+        "t41":{
+            "quantidade":""
+        },
+        "t42": {
+            "quantidade": ""
+        },
+        "t43": {
+            "quantidade": ""
+        },
+        "t44": {
+            "quantidade": ""
+        },
+        "t45": {
+            "quantidade": ""
+        }
+    },
+    "nota": "3.6",
+       
+        "comment": [
+            {
+                "id": "1",
+                "title": "Excelente",
+                "nome": "Moisés",
+                "local": "Salvador/Ba",
+                "msg": "excelente",
+                "img": "",
+                "data": "09/04/2022"
+            },
+            {
+                "id": "2",
+                "title": "Show",
+                "nome": "Digão",
+                "local": "x de Freitas / BA",
+                "msg": "Ótimo acabamento. Recomendo a todos. A+",
+                "img": "",
+                "data": "20/04/2022"
+            },
+            {
+                "id": "3",
+                "title": "Melhor tênis",
+                "nome": "Purple",
+                "local": "são paulo",
+                "msg": "Muito confortável e lindo",
+                "img": "",
+                "data": "22/02/2022"
+            }
+        ]
+    }

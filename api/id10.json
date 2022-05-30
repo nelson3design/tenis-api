@@ -1,0 +1,93 @@
+{
+    "id": "10",
+    "nome": "Tênis Nike Zoom Freak 3 Unissex",
+    "desc": "Giannis é um atleta com uma força implacável e habilidades vastas. Sua capacidade de jogar em qualquer posição o torna um imparável pesadelo para a defesa. O Zoom Freak 3 ajuda Giannis a criar espaço com seus passos dinâmicos e seu habilidoso Euro step. A tira moldada no médio pé e a sobreposição externa proporcionam estabilidade lateral para dominar as quadras, enquanto a tração multidirecional ajuda a manter o controle.",
+    "img": {
+        "imgPoster": "https://tenis-api.herokuapp.com/img/nike/masculino/basquete/air/tenis-nike-air-1.webp",
+        "img2": "https://tenis-api.herokuapp.com/img/nike/masculino/basquete/air/tenis-nike-air-zoom-2.webp",
+        "img3": "https://tenis-api.herokuapp.com/img/nike/masculino/basquete/air/tenis-nike-air-zoom-3.webp",
+        "img4": "https://tenis-api.herokuapp.com/img/nike/masculino/basquete/air/tenis-nike-air-zoom-4.webp"
+    },
+    "video": {
+        "status": "false",
+        "videoLink": ""
+    },
+    "preco": {
+        "moeda": "BRL",
+        "precoBase": "899,99",
+        "precoPromo": "899,99",
+        "procoDesconto": "899,99"
+    },
+    "cor": "cinza",
+    "size":{
+     
+        "t34": {
+            "quantidade": ""
+        },
+        "t35":{
+            "quantidade":""
+        },
+        "t36": {
+            "quantidade": ""
+        },
+        "t37": {
+            "quantidade": ""
+        },
+        "t38":{
+            "quantidade":"10"
+        },
+        "t39": {
+            "quantidade": "15"
+        },
+        "t40": {
+            "quantidade": "13"
+        },
+        "t41":{
+            "quantidade":""
+        },
+        "t42": {
+            "quantidade": ""
+        },
+        "t43": {
+            "quantidade": ""
+        },
+        "t44": {
+            "quantidade": ""
+        },
+        "t45": {
+            "quantidade": ""
+        }
+    },
+    "nota": "4.8",
+      
+        "comment": [
+            {
+                "id": "1",
+                "title": "Muito bom!",
+                "nome": "Lu",
+                "local": "Brotas",
+                "msg": "Recomento, produto de ótima qualidade!",
+                "img": "",
+                "data": "01/05/2022"
+            },
+            {
+                "id": "2",
+                "title": "Confortável",
+                "nome": "Layr",
+                "local": "São Paulo",
+                "msg": "Gostei da praticidade e rapidez da entrega",
+                "img": "",
+                "data": "10/04/2022"
+            },
+            {
+                "id": "3",
+                "title": "tênis top... tenhos os 3 freaks... sensancionais",
+                "nome": "Fernando Jr",
+                "local": "São Paulo",
+                "msg": "O tênis é muoto bom tenho os 3 freaks... do Giannis... os 3 são sensacionais.",
+                "img": "",
+                "data": "08/04/2022"
+            }
+        ]
+    
+}

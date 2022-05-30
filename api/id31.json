@@ -1,0 +1,87 @@
+{
+    "id": "31",
+    "nome": "TÊNIS HARDEN VOL. 6",
+    "desc": "Faça sua jogada quando o adversário menos esperar. Avance para o aro, arrisque de longe e deixe os marcadores para trás, assim como faz James Harden.",
+    "img": {
+        "imgPoster": "https://tenis-api.herokuapp.com/img/adidas/masculino/basquete/harden/img-1.webp",
+        "img2": "https://tenis-api.herokuapp.com/img/adidas/masculino/basquete/harden/img-2.webp",
+        "img3": "https://tenis-api.herokuapp.com/img/adidas/masculino/basquete/harden/img-3.webp",
+        "img4": "https://tenis-api.herokuapp.com/img/adidas/masculino/basquete/harden/img-4.webp"
+    },
+    "video": {
+        "status": "false",
+        "videoLink": ""
+    },
+    "preco": {
+        "moeda": "BRL",
+        "precoBase": "999,99",
+        "precoPromo": "999,99"
+       
+    },
+    "cor":"azul",
+      
+            "size":{
+     
+                "t34": {
+                    "quantidade": ""
+                },
+                "t35":{
+                    "quantidade":""
+                },
+                "t36": {
+                    "quantidade": ""
+                },
+                "t37": {
+                    "quantidade": ""
+                },
+                "t38":{
+                    "quantidade":""
+                },
+                "t39": {
+                    "quantidade": ""
+                },
+                "t40": {
+                    "quantidade": "3"
+                },
+                "t41":{
+                    "quantidade":"2"
+                },
+                "t42": {
+                    "quantidade": "10"
+                },
+                "t43": {
+                    "quantidade": "8"
+                },
+                "t44": {
+                    "quantidade": "2"
+                },
+                "t45": {
+                    "quantidade": "5"
+                }
+            },
+        
+   
+    "nota": "4.8",
+       
+        "comment": [
+            {
+                "id": "1",
+                "title": "Super confortável",
+                "nome": "ariel",
+                "local": "são josé",
+                "msg": "Design muito legal, confortável , tamanho perfeito",
+                "img": "",
+                "data": "12/01/2022"
+            },
+            {
+                "id": "2",
+                "title": "Incrível",
+                "nome": "rafael",
+                "local": "são paulo",
+                "msg": "Indico muito, super confortável, chegou RÁPIDO DEMAIIIIS!",
+                "img": "",
+                "data": "03/02/2022"
+            }
+        ]
+    
+}

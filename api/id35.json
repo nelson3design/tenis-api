@@ -1,0 +1,70 @@
+{
+    "id": "35",
+    "nome": "TÊNIS ULTRABOOST 22 X MARIMEKKO",
+    "desc": "Todo dia é uma nova oportunidade de mostrar ao mundo quem você é. Deixe a sua corrida mais colorida com este tênis responsivo que combina a sensibilidade artística da Marimekko com as tecnologias de alto desempenho da linha Ultraboost. ",
+    "img": {
+        "imgPoster": "https://tenis-api.herokuapp.com/img/adidas/femenino/casual/ultra/img-1.webp",
+        "img2": "https://tenis-api.herokuapp.com/img/adidas/femenino/casual/ultra/img-2.webp",
+        "img3": "https://tenis-api.herokuapp.com/img/adidas/femenino/casual/ultra/img-3.webp",
+        "img4": "https://tenis-api.herokuapp.com/img/adidas/femenino/casual/ultra/img-4.webp"
+    },
+    "video": {
+        "status": "false",
+        "videoLink": ""
+    },
+    "preco": {
+        "moeda": "BRL",
+        "precoBase": "1.299,99",
+        "precoPromo": "1.299,99"
+       
+    },
+    "cor":"branco",
+      
+            "size":{
+     
+                "t34": {
+                    "quantidade": "9"
+                },
+                "t35":{
+                    "quantidade":"2"
+                },
+                "t36": {
+                    "quantidade": "10"
+                },
+                "t37": {
+                    "quantidade": "4"
+                },
+                "t38":{
+                    "quantidade":""
+                },
+                "t39": {
+                    "quantidade": ""
+                },
+                "t40": {
+                    "quantidade": ""
+                },
+                "t41":{
+                    "quantidade":""
+                },
+                "t42": {
+                    "quantidade": ""
+                },
+                "t43": {
+                    "quantidade": ""
+                },
+                "t44": {
+                    "quantidade": ""
+                },
+                "t45": {
+                    "quantidade": ""
+                }
+            },
+        
+   
+    "nota": "2.0",
+       
+        "comment": [
+          
+        ]
+    
+}

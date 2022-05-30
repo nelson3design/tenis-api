@@ -1,0 +1,79 @@
+{
+    "id": "5",
+    "nome": "Tênis Nike Zoom Fly 4 Feminino",
+    "desc": "Encare seu treino e encontre seu ritmo. Ele é seguro e altamente ágil com mais flexibilidade em cada passo. A parte de cima macia e ventilada se combina a uma boca elástica para um ajuste semelhante a uma meia, oferecendo mais estabilidade. Há metas a atingir, então amarre os cadarços e alcance novas alturas.",
+ 
+
+ 
+           "cor":"cinza",
+           "video": {
+            "status": "false",
+            "videoLink": ""
+        },
+        "preco": {
+            "moeda": "BRL",
+            "precoBase": "1.099,99",
+            "precoPromo": "799,99",
+            "procoDesconto": "799,99"
+        },
+        "img": {
+            "imgPoster": "https://tenis-api.herokuapp.com/img/nike/femenino/corrida/2-cores/zoom-fl-cinza/tenis-zoom-fly-1.webp",
+            "img2": "https://tenis-api.herokuapp.com/img/nike/femenino/corrida/2-cores/zoom-fl-cinza/tenis-zoom-fly-2.webp",
+            "img3": "https://tenis-api.herokuapp.com/img/nike/femenino/corrida/2-cores/zoom-fl-cinza/tenis-zoom-fly-3.webp",
+            "img4": "https://tenis-api.herokuapp.com/img/nike/femenino/corrida/2-cores/zoom-fl-cinza/tenis-zoom-fly-4.webp"
+        },
+        "size":{
+     
+            "t34": {
+                "quantidade": ""
+            },
+            "t35":{
+                "quantidade":""
+            },
+            "t36": {
+                "quantidade": ""
+            },
+            "t37": {
+                "quantidade": ""
+            },
+            "t38":{
+                "quantidade":"10"
+            },
+            "t39": {
+                "quantidade": "15"
+            },
+            "t40": {
+                "quantidade": "13"
+            },
+            "t41":{
+                "quantidade":""
+            },
+            "t42": {
+                "quantidade": ""
+            },
+            "t43": {
+                "quantidade": ""
+            },
+            "t44": {
+                "quantidade": ""
+            },
+            "t45": {
+                "quantidade": ""
+            }
+        }
+     
+  ,
+    "nota":"4.9", 
+        "comment": [
+            {
+                "id": "1",
+                "title": "Ótimo",
+                "nome": "Joao",
+                "local": "São Paulo/SP",
+                "msg": "Vala a pena",
+                "img": "",
+                "data": "09/02/2022"
+            }
+        ]
+    
+}

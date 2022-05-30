@@ -1,0 +1,87 @@
+{
+    "id": "25",
+    "nome": "TÊNIS XX NITRO RUNNING FEMININO",
+    "desc": "Desenvolvido exclusivamente para o pé feminino, o tênis XX NITRO Running chegou para ser o seu mais novo parceiro de corrida. Com tecnologia NITRO FOAM para responsividade ultra leve e sola de borracha PUMAGRIP, o modelo traz ainda cabedal em mesh para maior respirabilidade, fechamento de cadarço, e a icônica faixa PUMA Formstrip na lateral para você superar os seus limites onde e quando quiser.",
+    "img": {
+        "imgPoster": "https://tenis-api.herokuapp.com/img/puma/femenino/corrida/nitro/img-1.webp",
+        "img2": "https://tenis-api.herokuapp.com/img/puma/femenino/corrida/nitro/img-2.webp",
+        "img3": "https://tenis-api.herokuapp.com/img/puma/femenino/corrida/nitro/img-3.webp",
+        "img4": "https://tenis-api.herokuapp.com/img/puma/femenino/corrida/nitro/img-4.webp"
+    },
+    "video": {
+        "status": "false",
+        "videoLink": ""
+    },
+    "preco": {
+        "moeda": "BRL",
+        "precoBase": "699,90",
+        "precoPromo": "699,90"
+       
+    },
+    "cor":"preto roxo",
+      
+            "size":{
+     
+                "t34": {
+                    "quantidade": ""
+                },
+                "t35":{
+                    "quantidade":"3"
+                },
+                "t36": {
+                    "quantidade": "6"
+                },
+                "t37": {
+                    "quantidade": "2"
+                },
+                "t38":{
+                    "quantidade":"1"
+                },
+                "t39": {
+                    "quantidade": ""
+                },
+                "t40": {
+                    "quantidade": "3"
+                },
+                "t41":{
+                    "quantidade":""
+                },
+                "t42": {
+                    "quantidade": ""
+                },
+                "t43": {
+                    "quantidade": ""
+                },
+                "t44": {
+                    "quantidade": ""
+                },
+                "t45": {
+                    "quantidade": ""
+                }
+            },
+        
+   
+    "nota": "5.0",
+       
+        "comment": [
+            {
+                "id": "1",
+                "title": "Lindo e Sola confortável. Cuidado com o tamanho",
+                "nome": "Fernando",
+                "local": "Teresina-Pi",
+                "msg": "O tênis aperta um pouco porque não é de cadarço, mas acredito que com o tempo fique mais confortável. Achei bonito e confortável.",
+                "img": "",
+                "data": "20/01/2022"
+            },
+            {
+                "id": "1",
+                "title": "Amei",
+                "nome": "Maia",
+                "local": "Teresina-Pi",
+                "msg": "um pouco apertado, mas tô na esperança de ceder um pouco. Ele é lindo!",
+                "img": "",
+                "data": "19/03/2022"
+            }
+        ]
+    
+}

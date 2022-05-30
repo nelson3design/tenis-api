@@ -1,0 +1,87 @@
+{
+    "id": "32",
+    "nome": "TÊNIS D.O.N. ISSUE #2",
+    "desc": "O tênis D.O.N. Issue #2 lançou as bases para levar Donovan Mitchell de um superastro em ascensão a um eterno All-Star na busca de um campeonato.",
+    "img": {
+        "imgPoster": "https://tenis-api.herokuapp.com/img/adidas/masculino/basquete/issue/img-1.webp",
+        "img2": "https://tenis-api.herokuapp.com/img/adidas/masculino/basquete/issue/img-2.webp",
+        "img3": "https://tenis-api.herokuapp.com/img/adidas/masculino/basquete/issue/img-3.webp",
+        "img4": "https://tenis-api.herokuapp.com/img/adidas/masculino/basquete/issue/img-4.webp"
+    },
+    "video": {
+        "status": "false",
+        "videoLink": ""
+    },
+    "preco": {
+        "moeda": "BRL",
+        "precoBase": "799,99",
+        "precoPromo": "499,99"
+       
+    },
+    "cor":"Preto vermelho",
+      
+            "size":{
+     
+                "t34": {
+                    "quantidade": ""
+                },
+                "t35":{
+                    "quantidade":""
+                },
+                "t36": {
+                    "quantidade": ""
+                },
+                "t37": {
+                    "quantidade": ""
+                },
+                "t38":{
+                    "quantidade":""
+                },
+                "t39": {
+                    "quantidade": ""
+                },
+                "t40": {
+                    "quantidade": "4"
+                },
+                "t41":{
+                    "quantidade":"7"
+                },
+                "t42": {
+                    "quantidade": "10"
+                },
+                "t43": {
+                    "quantidade": "8"
+                },
+                "t44": {
+                    "quantidade": "20"
+                },
+                "t45": {
+                    "quantidade": "9"
+                }
+            },
+        
+   
+    "nota": "4.4",
+       
+        "comment": [
+            {
+                "id": "1",
+                "title": "Qualidade incontestável.",
+                "nome": "Gigi",
+                "local": "são paulo",
+                "msg": "Chegou antes do tempo. Tênis confortável, veste muito bem com meia cano médio ou cano curto, recomendo",
+                "img": "",
+                "data": "10/01/2022"
+            },
+            {
+                "id": "2",
+                "title": "Eu tenho quatro cores diferente deste mesmo modelo , muito confortável e calça muito bem , sem contar em sua beleza",
+                "nome": "roger",
+                "local": "palhoça",
+                "msg": "Recomendo, super confortável, acho que outras marcas não tem a beleza do tênis donovan",
+                "img": "",
+                "data": "11/03/2022"
+            }
+        ]
+    
+}

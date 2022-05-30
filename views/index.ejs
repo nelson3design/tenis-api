@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><%= title %> </title>
+    <style>
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
+
+*{
+    font-family: 'Open Sans', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+        .body{
+            display: grid;
+            place-items: center;
+        }
+        h2{
+    font-size: 25px;
+    margin: 30px 0;
+}
+.key{
+    font-weight: 700;
+}
+
+h3{
+    margin-bottom: 30px;
+}
+
+h3 span{
+    font-size: 20px;
+    font-weight: 400;
+    color: white;
+    background-color: royalblue;
+    padding: 0 5px;
+    border-radius: 6px;
+  
+}
+
+thead{
+    font-size: 20px;
+    color: white;
+    background-color: #333;
+    text-align: center;
+}
+
+.title{
+    width: 100%;
+    background-color: #333;
+    color: white;
+    text-align: center;
+}
+td{
+    padding: 0 10px;
+}
+@media (max-width:992px) {
+    .body{
+        padding: 0 10px;
+    }
+    table{
+        width: 100%;
+    }
+    h3{
+        font-size: 16px;
+    }
+    h3 span{
+        font-size: 16px;
+    }
+}
+    </style>
+</head>
+<body>
+    <div class="body">
+   
+<h2 class="title">API de Produtos (Tênis)</h2>
+<h3><span>GET</span> https://tenis-api.herokuapp.com/product</h3>
+
+<h3><span>GET</span> https://tenis-api.herokuapp.com/all-product</h3>
+
+
+
+<table border="1" width= "50%">
+    <thead>
+        <tr>
+            <td>key</td>
+            <td>label</td>
+        </tr>
+    </thead>
+
+    <tbody>
+     
+
+
+        <tr>
+            <td class="key">nike</td>
+            <td>marca disponível</td>
+        </tr>
+
+
+        <tr>
+            <td class="key">puma</td>
+            <td>marca disponível</td>
+        </tr>
+
+
+
+        <tr>
+            <td class="key">adidas</td>
+            <td>marca disponível</td>
+        </tr>
+
+
+
+        <tr>
+            <td class="key">masculino</td>
+            <td>categoria</td>
+        </tr>
+
+
+        <tr>
+            <td class="key">femenino</td>
+            <td>categoria</td>
+        </tr>
+
+
+        <tr>
+            <td class="key">casual</td>
+            <td>sub-categoria</td>
+        </tr>
+
+
+
+
+        <tr>
+            <td class="key">basquete</td>
+            <td>sub-categoria</td>
+        </tr>
+
+
+
+        <tr>
+            <td class="key">corrida</td>
+            <td>sub-categoria</td>
+        </tr>
+
+
+        <tr>
+            <td class="key">id</td>
+            <td>numero de identidade do produtos e do comentários</td>
+        </tr>
+
+
+        <tr>
+            <td class="key">nome</td>
+            <td>nome do produto e nome de quem comentou</td>
+        </tr>
+
+
+        <tr>
+            <td class="key">desc</td>
+            <td>descrição do produto</td>
+        </tr>
+
+
+        <tr>
+            <td class="key">img</td>
+            <td>imagens do produto</td>
+        </tr>
+
+
+        <tr>
+            <td class="key">imgPoster </td>
+            <td>imagem principal do produto</td>
+        </tr>
+
+
+        <tr>
+            <td class="key">img2  </td>
+            <td>segunda imagem do produto</td>
+        </tr>
+
+        <tr>
+            <td class="key">img3 </td>
+            <td>terceira imagem do produto</td>
+        </tr>
+
+
+        <tr>
+            <td class="key">img4 </td>
+            <td>quarta imagem do produto</td>
+        </tr>
+
+        <tr>
+            <td class="key">video </td>
+            <td>video do produto</td>
+        </tr>
+
+
+        <tr>
+            <td class="key">status </td>
+            <td>status do video</td>
+        </tr>
+
+        <tr>
+            <td class="key">videoLink</td>
+            <td>link do video</td>
+        </tr>
+
+        <tr>
+            <td class="key">preco</td>
+            <td>preços do produto</td>
+        </tr>
+
+
+        <tr>
+            <td class="key">moeda</td>
+            <td>moeda disponível</td>
+        </tr>
+
+
+        <tr>
+            <td class="key">precoBase</td>
+            <td>preço de produto sem desconto</td>
+        </tr>
+
+
+        <tr>
+            <td class="key">precoPromo</td>
+            <td>preço do produto com desconto</td>
+        </tr>
+
+
+        <tr>
+            <td class="key">cor</td>
+            <td>cor do produto</td>
+        </tr>
+
+
+        <tr>
+            <td class="key">size</td>
+            <td>tamanhos do produto disponível</td>
+        </tr>
+
+
+
+        <tr>
+            <td class="key">t34</td>
+            <td>tamanho 34</td>
+        </tr>
+
+
+        <tr>
+            <td class="key">t35</td>
+            <td>tamanho 35</td>
+        </tr>
+
+
+        <tr>
+            <td class="key">t36</td>
+            <td>tamanho 36</td>
+        </tr>
+
+
+        <tr>
+            <td class="key">t37</td>
+            <td>tamanho 37</td>
+        </tr>
+
+
+        <tr>
+            <td class="key">t38</td>
+            <td>tamanho 38</td>
+        </tr>
+
+
+        <tr>
+            <td class="key">t39</td>
+            <td>tamanho 39</td>
+        </tr>
+
+        <tr>
+            <td class="key">t40</td>
+            <td>tamanho 40</td>
+        </tr>
+
+        <tr>
+            <td class="key">t41</td>
+            <td>tamanho 41</td>
+        </tr>
+
+        <tr>
+            <td class="key">t42</td>
+            <td>tamanho 42</td>
+        </tr>
+
+        <tr>
+            <td class="key">t43</td>
+            <td>tamanhos 43</td>
+        </tr>
+
+        <tr>
+            <td class="key">t44</td>
+            <td>tamanhos 44</td>
+        </tr>
+
+        <tr>
+            <td class="key">t45</td>
+            <td>tamanhos 45</td>
+        </tr>
+
+
+
+        <tr>
+            <td class="key">quantidade</td>
+            <td>quantidade de produto disponivel de cada tamanho</td>
+        </tr>
+
+        <tr>
+            <td class="key">nota </td>
+            <td>nota do produto</td>
+        </tr>
+
+        <tr>
+            <td class="key">comment </td>
+            <td>comentários</td>
+        </tr>
+
+        <tr>
+            <td class="key">title </td>
+            <td>título do comentário</td>
+        </tr>
+
+        <tr>
+            <td class="key">local </td>
+            <td>local de quem comentou</td>
+        </tr>
+
+        <tr>
+            <td class="key">msg </td>
+            <td>mensagem de quem comentou</td>
+        </tr>
+        <tr>
+            <td class="key">data </td>
+            <td>data do comentário</td>
+        </tr>
+    </tbody>
+</table>
+
+
+<h2 class="title">Nelson3design</h2>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,96 @@
+{
+    "id": "15",
+    "nome": "TÊNIS SUEDE CLASSIC XXI",
+    "desc": "O modelo mais icônico da PUMA surgiu em 1968 e teve um impacto revolucionário na cultura sneaker. Desde então, já foi usado por ícones de todas as gerações. O tênis Suede Classic XXI traz cabedal em suede, entressola de borracha, palmilha ultra confortável e a consagrada faixa PUMA Formstrip nas laterais da silhueta low-rise.",
+    "img": {
+        "imgPoster": "https://tenis-api.herokuapp.com/img/puma/masculino/casual/suede-classic/img-1.webp",
+        "img2": "https://tenis-api.herokuapp.com/img/puma/masculino/casual/suede-classic/img-2.webp",
+        "img3": "https://tenis-api.herokuapp.com/img/puma/masculino/casual/suede-classic/img-3.webp",
+        "img4": "https://tenis-api.herokuapp.com/img/puma/masculino/casual/suede-classic/img-4.webp"
+    },
+    "video": {
+        "status": "false",
+        "videoLink": ""
+    },
+    "preco": {
+        "moeda": "BRL",
+        "precoBase": "399,90",
+        "precoPromo": "399,90"
+
+    },
+    "cor": "preto branco",
+      
+            "size":{
+     
+                "t34": {
+                    "quantidade": ""
+                },
+                "t35":{
+                    "quantidade":""
+                },
+                "t36": {
+                    "quantidade": "23"
+                },
+                "t37": {
+                    "quantidade": ""
+                },
+                "t38":{
+                    "quantidade":"10"
+                },
+                "t39": {
+                    "quantidade": "15"
+                },
+                "t40": {
+                    "quantidade": "13"
+                },
+                "t41":{
+                    "quantidade":""
+                },
+                "t42": {
+                    "quantidade": "10"
+                },
+                "t43": {
+                    "quantidade": ""
+                },
+                "t44": {
+                    "quantidade": ""
+                },
+                "t45": {
+                    "quantidade": ""
+                }
+            },
+        
+    
+    "nota":"4.8",
+       
+        "comment": [
+            {
+                "id": "1",
+                "title": "Lindo demais! puma é puma né Pai... haha",
+                "nome": "jão",
+                "local": "Franca SP",
+                "msg": "Brabo demais!",
+                "img": "",
+                "data": "09/04/2022"
+            },
+            {
+                "id": "2",
+                "title": "Air force melhor linha da puma",
+                "nome": "juliana",
+                "local": "Paraná",
+                "msg": "Confortável e de excelente qualidade",
+                "img": "",
+                "data": "10/04/2022"
+            },
+            {
+                "id": "1",
+                "title": "MARAVILHOSO",
+                "nome": "Jamylle",
+                "local": "Uberlândia-MG",
+                "msg": "Os defeitos do tênis são: Ele é difícil de calçar, ele fica marcando com linhas a parte branca do calcanhar e não ficou muito bonito no designer na cor preta, ficou muito simples.",
+                "img": "",
+                "data": "10/04/2022"
+            }
+        ]
+    
+    }

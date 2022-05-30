@@ -1,0 +1,78 @@
+{
+    "id": "2",
+    "nome": "Tênis Nike Air Max INTRLK Feminino",
+    "desc": "Você precisa sentir a sensação para ser a sensação. Aposte no Nike Air Max INTRLK. O amortecimento Air empilhado eleva o conforto com maior agilidade e flexibilidade para saltos. Materiais leves e fáceis de combinar resistem ao uso prolongado. Para o acabamento, a sola inspirada no padrão Waffle acrescenta o verdadeiro estilo da Nike.",
+    "img": {
+        "imgPoster": "https://tenis-api.herokuapp.com/img/nike/femenino/casual/air-max/tenis-nike-air-max-1.webp",
+        "img2": "https://tenis-api.herokuapp.com/img/nike/femenino/casual/air-max/tenis-nike-air-max-2.webp",
+        "img3": "https://tenis-api.herokuapp.com/img/nike/femenino/casual/air-max/tenis-nike-air-max-3.webp",
+        "img4": "https://tenis-api.herokuapp.com/img/nike/femenino/casual/air-max/tenis-nike-air-max-4.webp"
+    },
+    "video": {
+        "status": "false",
+        "videoLink": ""
+    },
+    "preco": {
+        "moeda": "BRL",
+        "precoBase": "799,99",
+        "precoPromo": "799,99",
+        "procoDesconto": "799,99"
+    },
+    "cor":"preto",
+      
+            "size":{
+     
+                "t34": {
+                    "quantidade": ""
+                },
+                "t35":{
+                    "quantidade":""
+                },
+                "t36": {
+                    "quantidade": ""
+                },
+                "t37": {
+                    "quantidade": ""
+                },
+                "t38":{
+                    "quantidade":"10"
+                },
+                "t39": {
+                    "quantidade": "15"
+                },
+                "t40": {
+                    "quantidade": "13"
+                },
+                "t41":{
+                    "quantidade":""
+                },
+                "t42": {
+                    "quantidade": ""
+                },
+                "t43": {
+                    "quantidade": ""
+                },
+                "t44": {
+                    "quantidade": ""
+                },
+                "t45": {
+                    "quantidade": ""
+                }
+            },
+        
+   
+    "nota": "5.0",
+       
+        "comment": [
+            {
+                "id": "1",
+                "title": "Excelente",
+                "nome": "Jo",
+                "local": "Curitiba /Pr",
+                "msg": "Para comprar",
+                "img": "https://tenis-api.herokuapp.com/img/nike/femenino/casual/air-max/comennt-tenis-preto.webp",
+                "data": "09/05/2022"
+            }
+        ]
+    
+}

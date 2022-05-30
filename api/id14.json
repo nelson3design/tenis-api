@@ -1,0 +1,74 @@
+{
+    "id": "14",
+    "nome": "Tênis Nike Zoom Metcon Turbo 2",
+    "desc": "O Nike Zoom Metcon Turbo 2 coloca uma dose de velocidade e adrenalina em seus treinos diários. Ele combina estabilidade e agilidade em um pacote leve, ajudando você a se mover rapidamente durante o treino de circuito, intervalos de alta intensidade na esteira, um treino de cardio na volta para casa, seja qual for a sua escolha. Do amortecimento Zoom Air debaixo do pé à corda ao redor do peito do pé, cada detalhe é ponderado para minimizar o peso e maximizar o desempenho e a durabilidade. Materiais mais leves e resistentes foram desenvolvidos para otimizar velocidade e força.",
+    "img": {
+        "imgPoster": "https://tenis-api.herokuapp.com/img/nike/masculino/treino/zoom/tenis-nike-zoom-metcon-1.webp",
+        "img2": "https://tenis-api.herokuapp.com/img/nike/masculino/treino/zoom/tenis-nike-zoom-metcon-2.webp",
+        "img3": "https://tenis-api.herokuapp.com/img/nike/masculino/treino/zoom/tenis-nike-zoom-metcon-3.webp",
+        "img4": "https://tenis-api.herokuapp.com/img/nike/masculino/treino/zoom/tenis-nike-zoom-metcon-4.webp"
+    },
+    "video": {
+        "status": "false",
+        "videoLink": ""
+    },
+    "preco": {
+        "moeda": "BRL",
+        "precoBase": "1.099,99",
+        "precoPromo": "1.099,99",
+        "procoDesconto": "1.099,99"
+    },
+    "cor": "verde",
+    "size":{
+     
+        "t34": {
+            "quantidade": ""
+        },
+        "t35":{
+            "quantidade":""
+        },
+        "t36": {
+            "quantidade": ""
+        },
+        "t37": {
+            "quantidade": ""
+        },
+        "t38":{
+            "quantidade":"10"
+        },
+        "t39": {
+            "quantidade": "15"
+        },
+        "t40": {
+            "quantidade": "13"
+        },
+        "t41":{
+            "quantidade":""
+        },
+        "t42": {
+            "quantidade": ""
+        },
+        "t43": {
+            "quantidade": ""
+        },
+        "t44": {
+            "quantidade": ""
+        },
+        "t45": {
+            "quantidade": ""
+        }
+    },
+    "nota":"2.0",
+       
+        "comment": [
+            {
+                "id": "1",
+                "title": "Infelizmente decepcionada",
+                "nome": ".",
+                "local": "Irati",
+                "msg": "Fica pegando na lateral da canela, impossível usar. Tomara que encontre alguém que não fique pegando ali e consiga revender",
+                "img": "",
+                "data": "02/05/2022"
+            }
+        ]
+    }

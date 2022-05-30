@@ -1,0 +1,94 @@
+{
+    "id": "8",
+    "nome": "Tênis Nike Court Legacy Canvas Mid Masculino",
+    "desc": "Homenageando sua história baseada na cultura do tênis, o Nike Court Legacy Canvas Mid leva o clássico a um novo patamar. Ele é feito com lona durável, costuras de herança e um grande Swoosh na lateral que atualiza a edição. A boca acolchoada proporciona uma ótima sensação e adiciona uma camada extra de conforto.",
+    "img": {
+        "imgPoster": "https://tenis-api.herokuapp.com/img/nike/masculino/casual/court/tenis-nike-court-legacy-1.webp",
+        "img2": "https://tenis-api.herokuapp.com/img/nike/masculino/casual/court/tenis-nike-court-legacy-2.webp",
+        "img3": "https://tenis-api.herokuapp.com/img/nike/masculino/casual/court/tenis-nike-court-legacy-3.webp",
+        "img4": "https://tenis-api.herokuapp.com/img/nike/masculino/casual/court/tenis-nike-court-legacy-mid-4.webp"
+    },
+    "video": {
+        "status": "false",
+        "videoLink": ""
+    },
+    "preco": {
+        "moeda": "BRL",
+        "precoBase": "499,99",
+        "precoPromo": "409,99",
+        "procoDesconto": "409,99"
+    },
+    "cor": "preto",
+    "size":{
+     
+        "t34": {
+            "quantidade": ""
+        },
+        "t35":{
+            "quantidade":""
+        },
+        "t36": {
+            "quantidade": ""
+        },
+        "t37": {
+            "quantidade": ""
+        },
+        "t38":{
+            "quantidade":"10"
+        },
+        "t39": {
+            "quantidade": "15"
+        },
+        "t40": {
+            "quantidade": "13"
+        },
+        "t41":{
+            "quantidade":""
+        },
+        "t42": {
+            "quantidade": ""
+        },
+        "t43": {
+            "quantidade": ""
+        },
+        "t44": {
+            "quantidade": ""
+        },
+        "t45": {
+            "quantidade": ""
+        }
+    }
+    ,
+    "nota": "4.8",
+       
+        "comment": [
+            {
+                "id": "1",
+                "title": "Tênis lindo , ótimo para treinos de perna",
+                "nome": "Luis",
+                "local": "Paraná",
+                "msg": "Recomendo",
+                "img": "",
+                "data": "01/03/2022"
+            },
+            {
+                "id": "2",
+                "title": "MUITO BONITO",
+                "nome": "NAYRON TREINADOR",
+                "local": "MARABÁ PA",
+                "msg": "BEM BONITO",
+                "img": "",
+                "data": "10/03/2022"
+            },
+            {
+                "id": "3",
+                "title": "Produto muito lindo e confortável , chegou muito rápido ..",
+                "nome": "Jenny",
+                "local": "Fátima do Sul Ms",
+                "msg": "Muito lindo",
+                "img": "",
+                "data": "25/03/2022"
+            }
+        ]
+    
+}

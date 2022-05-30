@@ -1,0 +1,88 @@
+{
+    "id": "34",
+    "nome": "TÊNIS QT RACER 2.0",
+    "desc": "Produzido parcialmente com material reciclado proveniente de resíduos de produção, como sobras de corte e descartes domésticos pós-consumo, para evitar o impacto ambiental maior da produção de conteúdo virgem.",
+    "img": {
+        "imgPoster": "https://tenis-api.herokuapp.com/img/adidas/femenino/casual/racer/img-1.webp",
+        "img2": "https://tenis-api.herokuapp.com/img/adidas/femenino/casual/racer/img-2.webp",
+        "img3": "https://tenis-api.herokuapp.com/img/adidas/femenino/casual/racer/img-3.webp",
+        "img4": "https://tenis-api.herokuapp.com/img/adidas/femenino/casual/racer/img-4.webp"
+    },
+    "video": {
+        "status": "false",
+        "videoLink": ""
+    },
+    "preco": {
+        "moeda": "BRL",
+        "precoBase": "349,99",
+        "precoPromo": "349,99"
+       
+    },
+    "cor":"branco",
+      
+            "size":{
+     
+                "t34": {
+                    "quantidade": ""
+                },
+                "t35":{
+                    "quantidade":"1"
+                },
+                "t36": {
+                    "quantidade": "3"
+                },
+                "t37": {
+                    "quantidade": "10"
+                },
+                "t38":{
+                    "quantidade":"9"
+                },
+                "t39": {
+                    "quantidade": "3"
+                },
+                "t40": {
+                    "quantidade": ""
+                },
+                "t41":{
+                    "quantidade":""
+                },
+                "t42": {
+                    "quantidade": ""
+                },
+                "t43": {
+                    "quantidade": ""
+                },
+                "t44": {
+                    "quantidade": ""
+                },
+                "t45": {
+                    "quantidade": ""
+                }
+            },
+        
+   
+    "nota": "5.0",
+       
+        "comment": [
+            {
+                "id": "1",
+                "title": "Otima",
+                "nome": "ananda",
+                "local": "palhoça",
+                "msg": "Tenis médio, parece pequeno mas serve bem. Recomendado",
+                "img": "",
+                "data": "14/03/2022"
+            },
+            {
+                "id": "2",
+                "title": "O tênis é lindo, mas suja bem fácil. Entretanto, o conforto dele supera a dificuldade de limpar. Ótima compra!",
+                "nome": "Carol",
+                "local": "Rio de Janeiro",
+                "msg": "Confortável, bonito e com preço justo. Compraria de novo com certeza.",
+                "img": "",
+                "data": "15/05/2022"
+            }
+           
+        ]
+    
+}
